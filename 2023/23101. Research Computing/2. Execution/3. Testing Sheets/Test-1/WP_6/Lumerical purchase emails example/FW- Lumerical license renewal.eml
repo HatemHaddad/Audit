@@ -1,0 +1,1430 @@
+Received: from MI-MBX-PROD1.minet.ae (10.106.0.224) by MI-MBX-PROD1.minet.ae
+ (10.106.0.224) with Microsoft SMTP Server (TLS) id 15.0.1497.2 via Mailbox
+ Transport; Mon, 5 Apr 2021 10:24:31 +0400
+Received: from KU1ICCSWV004.kunet.ae (10.192.12.13) by MI-MBX-PROD1.minet.ae
+ (10.106.0.224) with Microsoft SMTP Server id 15.0.1497.2; Mon, 5 Apr 2021
+ 10:24:30 +0400
+Received: from KU1ICCSWV006.kunet.ae (10.192.12.15) by KU1ICCSWV004.kunet.ae
+ (10.192.12.13) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 5 Apr 2021
+ 10:24:27 +0400
+Received: from KU1ICCSWV006.kunet.ae ([fe80::a9dd:11be:dff4:33dd]) by
+ KU1ICCSWV006.kunet.ae ([fe80::a9dd:11be:dff4:33dd%6]) with mapi id
+ 15.01.2176.009; Mon, 5 Apr 2021 10:24:27 +0400
+From: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+To: Khaled Ali Ahmed Ghaleb <khaled.ghaleb@ku.ac.ae>
+CC: Ahmed Al Yafei <ahmed.alyafei@ku.ac.ae>, Dureid El Moghraby
+	<dureid.elmoghraby@ku.ac.ae>, Jaime Viegas <jaime.viegas@ku.ac.ae>
+Subject: FW: Lumerical license renewal
+Thread-Topic: Lumerical license renewal
+Thread-Index: Adb6FGKgNE/aAkgfSmWArpJZp240NAAHg4QAAB7rxWAAFbBZgAFK+u8QABK1IgACePxAwAAUN7AAAmL83oAAGB2SgAHMohwwAAH/EAAAELVIMAB+y2nAAEb22PAAIfOBAAARe3jwAFadljD//8BmgP/u1KEg/92VNOD/uxV8UA==
+Date: Mon, 5 Apr 2021 06:24:27 +0000
+Message-ID: <19d05a8c3f764691b9c28dd96a9583f8@ku.ac.ae>
+References: <BA181799BE530347A346F7FFB3BEBFF2CC73CD3D@SRV03010.PI.AC.AE>
+ <14705721-984e-54dc-aae6-50ff7704f314-601ae090406da@solar>
+ <BA181799BE530347A346F7FFB3BEBFF2CC740AB1@SRV03010.PI.AC.AE>
+ <MWHPR01MB33121FD9CE83033CADC396B9EAB39@MWHPR01MB3312.prod.exchangelabs.com>
+ <d9932e36d04b418a82732ece36d068b7@ku.ac.ae>
+ <MWHPR01MB33124B7D7EB1BE74DA06FE5AEA8C9@MWHPR01MB3312.prod.exchangelabs.com>
+ <6634b38030b5406ba8f651968f1c6ac7@ku.ac.ae>
+ <MWHPR01MB331287EF7B7E860A9FF0A2AFEA9F9@MWHPR01MB3312.prod.exchangelabs.com>
+ <MWHPR01MB3312A8EDE440F5C1F9C6C58DEA939@MWHPR01MB3312.prod.exchangelabs.com>
+ <c589161f79d54bbcb55492899801e698@ku.ac.ae>
+ <BYAPR01MB4024911782B2AA0D8890391E8D699@BYAPR01MB4024.prod.exchangelabs.com>
+ <63c38b5c2c424d0b90a597b46333cec3@ku.ac.ae>
+ <MWHPR01MB3312EFD4C898E71832A44FF8EA659@MWHPR01MB3312.prod.exchangelabs.com>
+ <96ea0250dc7a4f35aca9fd430ce7eddf@ku.ac.ae>
+ <MWHPR01MB331272E534E546E73155C13CEA649@MWHPR01MB3312.prod.exchangelabs.com>
+ <d82db8ac9da14c4c874fde0fb96627d5@ku.ac.ae>
+ <50FEF27A-6A12-41D6-B895-6A3B8CF7CBC2@masdar.ac.ae>
+ <9547177a8a8142449680a878e63e3cdb@ku.ac.ae>
+ <5ce3b5715b8b42329a8f4283a1c62924@ku.ac.ae>
+In-Reply-To: <5ce3b5715b8b42329a8f4283a1c62924@ku.ac.ae>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: <19d05a8c3f764691b9c28dd96a9583f8@ku.ac.ae>
+x-originating-ip: [10.192.12.100]
+x-c2processedorg: c1413343-9e07-4ec7-8065-f0737cbb1a25
+MIME-Version: 1.0
+Return-Path: abdullateef.khan@ku.ac.ae
+X-MS-Exchange-Organization-Network-Message-Id: 50dc812a-fc34-4724-a6f2-08d8f7fb78b8
+X-C2ProcessedOrg: 5b483d43-7ecf-4f7c-8e88-93ba504e8ba3
+X-MS-Exchange-Organization-AuthSource: MI-MBX-PROD1.minet.ae
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: multipart/mixed;
+	boundary="B_3714913458_2015556748"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3714913458_2015556748
+Content-type: multipart/related;
+	boundary="B_3714913458_2142821174"
+
+--B_3714913458_2142821174
+Content-type: multipart/alternative;
+	boundary="B_3714913458_1066710527"
+
+
+--B_3714913458_1066710527
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+Dear Khaled,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+We now have submitted a PR # 8471107698 for Lumerial software license renewal (which expired in late March) after having access to the approved budget.
+
+ 
+
+The vendor has agreed to provide a loan of our license time provided we notify them of the approximate date of the expected PO.
+
+ 
+
+Is it possible to commit a date to the vendor to issue us the loan license?
+
+ 
+
+Best Regards, 
+
+Abdul Lateef
+
++971 2 312 3585
+
+ 
+
+From: Dureid El Moghraby <dureid.elmoghraby@ku.ac.ae> 
+Sent: Thursday, March 25, 2021 1:42 PM
+To: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Cc: Ahmed Al Yafei <ahmed.alyafei@ku.ac.ae>
+Subject: Re: Lumerical license renewal
+
+ 
+
+Dear Abdul Lateef,
+
+ 
+
+Thanks for the follow up.
+
+ 
+
+If possible, can you please get in touch with the procurement department to get them to commit to completing this within the 4 weeks. If they do, please get Catriona to issue the loan license based on that  date.
+
+ 
+
+Thanks,
+
+Dureid
+
+ 
+
+P.S. I received and approved the PR this morning, there is one final approval remaining from SVP of research. Let me know if it is not done end of day.
+
+ 
+
+ 
+
+ 
+
+From: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Date: Thursday, 25 March 2021 at 13:34
+To: Dureid El Moghraby <dureid.elmoghraby@ku.ac.ae>
+Cc: Ahmed Al Yafei <ahmed.alyafei@ku.ac.ae>
+Subject: FW: Lumerical license renewal
+
+ 
+
+Dear Dr. Dureid,
+
+ 
+
+Please find below the response from the supplier regarding the Lumerical temporary license file.
+
+ 
+
+The PR is under the approval process. Let us know if you recommend any further action.
+
+ 
+
+Best Regards, 
+
+Abdul Lateef
+
++971 2 312 3585
+
+ 
+
+From: Catriona Scheffer <Catriona.Scheffer@ansys.com> 
+Sent: Tuesday, March 23, 2021 8:11 PM
+To: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Subject: RE: Lumerical license renewal
+
+ 
+
+[EXTERNAL EMAIL]
+
+Hello Abdul,
+
+ 
+
+Certainly, once you have an approximate date please let me know and I will create a loan license for you.  I cannot do so beforehand as dates are required. Please note we cannot do a loan of more than 3 or  4 weeks. 
+
+ 
+
+Best regards,
+
+Catriona
+
+ 
+
+From: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Sent: Tuesday, March 23, 2021 1:34 AM
+To: Catriona Scheffer <Catriona.Scheffer@ansys.com>; Daniel Fernandez <daniel.fernandez@ansys.com>
+Cc: Ahmed Al Yafei <ahmed.alyafei@ku.ac.ae>
+Subject: RE: Lumerical license renewal
+
+ 
+
+[External Sender]
+
+Dear Catriona,
+
+ 
+
+Welcome back, and thank you for your email.
+
+ 
+
+Please do share a loan of our license time as the work of our end-users is affected. I shall work with our Procurements department and get you the date of the expected PO.
+
+ 
+
+Best Regards, 
+
+Abdul Lateef
+
++971 2 312 3585
+
+ 
+
+From: Catriona Scheffer <Catriona.Scheffer@ansys.com>
+Sent: Monday, March 22, 2021 7:39 PM
+To: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>; Daniel Fernandez <daniel.fernandez@ansys.com>
+Cc: Ahmed Al Yafei <ahmed.alyafei@ku.ac.ae>
+Subject: RE: Lumerical license renewal
+
+ 
+
+Hello Abduel,
+
+ 
+
+I am back from vacation.  Unfortunately, we cannot provide an extended free license.  We can however, provide a loan of your license time.  For this we will require the approximate date of the expected PO.  We will then send you the first two or three weeks of your license and upon receipt of the PO we will forward the remaining license time.
+
+ 
+
+Best regards,
+
+Catriona
+
+ 
+
+From: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Sent: Saturday, March 20, 2021 10:49 PM
+To: Daniel Fernandez <daniel.fernandez@ansys.com>
+Cc: Ahmed Al Yafei <ahmed.alyafei@ku.ac.ae>; Catriona Scheffer <Catriona.Scheffer@ansys.com>
+Subject: RE: Lumerical license renewal
+
+ 
+
+[External Sender]
+
+Dear Daniel,
+
+ 
+
+Thank you for your response.
+
+ 
+
+I am attaching the .info and the .lic that were shared earlier. We appreciate it if we can get the temporary license file for a more extended period.
+
+ 
+
+We are on top of having this renewed as early as possible; however, at this time, I cannot mention a timeframe.
+
+ 
+
+Best Regards, 
+
+Abdul Lateef
+
++971 2 312 3585
+
+ 
+
+From: Daniel Fernandez <daniel.fernandez@ansys.com>
+Sent: Thursday, March 18, 2021 10:09 PM
+To: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Cc: Catriona Scheffer <Catriona.Scheffer@ansys.com>
+Subject: RE: Lumerical license renewal
+
+ 
+
+Hi Abdul,
+
+ 
+
+May I ask how long you expect the renewal processing to take? We can give you a temp license for up to one week. We will require the machine information of your host computer; to do this please follow the  steps at https://www.ansys.com/it-solutions/licensing/capture-license-server-information  and return the .INFO file to me.
+
+ 
+
+Best,
+
+Daniel Fernandez / Sales Intern
+
+1700-1095 West Pender Street  / Vancouver, BC, V6E 2M6
+
+Daniel.fernandez@ansys.com /  www.ansys.com
+
+ 
+
+From: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Sent: Thursday, March 18, 2021 2:19 AM
+To: Daniel Fernandez <daniel.fernandez@ansys.com>; Fatema Chowdhury <Fatema.Chowdhury@ansys.com>
+Cc: Catriona Scheffer <Catriona.Scheffer@ansys.com>
+Subject: FW: Lumerical license renewal
+
+ 
+
+[External Sender]
+
+Dear Colleagues,
+
+ 
+
+I received an out-of-office reply from Catriona. We appreciate it if you could please look into the below request.
+
+ 
+
+Best Regards, 
+
+Abdul Lateef
+
++971 2 312 3585
+
+ 
+
+From: Abdul Lateef Khan
+Sent: Thursday, March 18, 2021 12:21 PM
+To: 'Catriona Scheffer' <Catriona.Scheffer@ansys.com>
+Subject: RE: Lumerical license renewal
+
+ 
+
+Dear Catriona,
+
+ 
+
+I hope all is well with you.
+
+ 
+
+I need your help as my emails to the support team are being kept on hold.
+
+ 
+
+Would you please arrange to send us a temporary license file as the current license file expires in another four days while we work on processing the renewal?
+
+ 
+
+Best Regards, 
+
+Abdul Lateef
+
++971 2 312 3585
+
+ 
+
+From: Abdul Lateef Khan
+Sent: Tuesday, March 9, 2021 8:34 AM
+To: 'Catriona Scheffer' <Catriona.Scheffer@ansys.com>
+Subject: RE: Lumerical license renewal
+
+ 
+
+Dear Catriona,
+
+ 
+
+Thank you for the follow-up. We shall get back to you in case we have any clarifications.
+
+ 
+
+Best Regards, 
+
+Abdul Lateef
+
++971 2 312 3585
+
+ 
+
+From: Catriona Scheffer <Catriona.Scheffer@ansys.com>
+Sent: Tuesday, March 9, 2021 12:59 AM
+To: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Subject: RE: Lumerical license renewal
+
+ 
+
+Hello Abdul,
+
+ 
+
+Did you have any questions on the quotation? 
+
+ 
+
+Best regards,
+
+Catriona
+
+ 
+
+From: Catriona Scheffer
+Sent: Wednesday, February 24, 2021 9:25 AM
+To: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Subject: RE: Lumerical license renewal
+
+ 
+
+Hello Abdul.
+
+ 
+
+Please find attached renewal quotation along with our EUC form which we need filling out due to Ansys Inc. Expert control regulations.
+
+ 
+
+Please also fill out the attached information so that we may process your order with the correct machine information.
+
+https://www.ansys.com/solutions/solutions-by-role/it-professionals/licensing/capture-license-server-information
+
+ 
+
+ 
+
+If you have any questions, please let me know.
+
+ 
+
+Best regards,
+
+Catriona
+
+ 
+
+From: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Sent: Tuesday, February 23, 2021 7:54 PM
+To: Catriona Scheffer <Catriona.Scheffer@ansys.com>
+Subject: RE: Lumerical license renewal
+
+ 
+
+[External Sender]
+
+Dear Catriona,
+
+ 
+
+Thank you for sharing the details.
+
+ 
+
+Please share the formal proposal.
+
+ 
+
+Best Regards, 
+
+Abdul Lateef
+
++971 2 312 3585
+
+ 
+
+From: Catriona Scheffer <Catriona.Scheffer@ansys.com>
+Sent: Thursday, February 11, 2021 9:42 PM
+To: Abdul Lateef Khan <abdullateef.khan@ku.ac.ae>
+Subject: RE: Lumerical license renewal
+
+ 
+
+Hello Abdul,
+
+ 
+
+I outlined most of the differences in my previous email.  The packages are very similar.
+
+Previously you purchased our Silver Site License which came with 30 FDTD licenses and 20 licenses of our other products, MODE, DGTD, HEAT, FEEM, CHARGE, MQW, STACK and INTERCONNECT.  You also purchase our  virtuoso interop license. The cost was 25,920 USD excluding duties and taxes.
+
+ 
+
+This year we have a 25 Task Research bundle which includes 25 licenses of each of our products as well as all our interoperability products and cml compiler. Each GUI license comes with 4 engines with a 32  core limit each.  Our products, including our intereroperability products may be found on our website,  https://www.lumerical.com/products/  The 1 year cost is 24,800.00 USD excluding duties and taxes.
+
+ 
+
+The cost is lower this year than previously.  The main differences are you only have 25 FDTD rather than 30.  However, you also have all of our interoperability licenses and the cml compiler, previously not  included.
+
+ 
+
+Best regards,
+
+Catriona
+
+ 
+
+ 
+
+ 
+
+
+--B_3714913458_1066710527
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsof=
+t-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmlns:m=
+=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org=
+/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	color:black;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle23
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Dear Khal=
+ed,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">I hope th=
+is email finds you well.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">We now ha=
+ve submitted a PR # 8471107698 for Lumerial software license renewal (which =
+expired in late March) after having access to the approved budget.<o:p></o:p=
+></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">The vendo=
+r has agreed to provide a loan of our license time provided we notify them o=
+f the approximate date of the expected PO.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Is it pos=
+sible to commit a date to the vendor to issue us the loan license?<o:p></o:p=
+></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best Regards, <o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Abdul Lateef<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&#43;971 2 312 3585<o:p></=
+o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D"><o:p>&nbs=
+p;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Dureid El Moghraby &lt;<a href=3D"mailto:dureid.el=
+moghraby@ku.ac.ae">dureid.elmoghraby@ku.ac.ae</a>&gt;
+<br>
+<b>Sent:</b> Thursday, March 25, 2021 1:42 PM<br>
+<b>To:</b> Abdul Lateef Khan &lt;<a href=3D"mailto:abdullateef.khan@ku.ac.ae"=
+>abdullateef.khan@ku.ac.ae</a>&gt;<br>
+<b>Cc:</b> Ahmed Al Yafei &lt;<a href=3D"mailto:ahmed.alyafei@ku.ac.ae">ahmed=
+.alyafei@ku.ac.ae</a>&gt;<br>
+<b>Subject:</b> Re: Lumerical license renewal<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Dear Abdul Lateef,<o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext"><o:p>&nbsp;</o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Thanks for the follow u=
+p.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext"><o:p>&nbsp;</o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">If possible, can you pl=
+ease get in touch with the procurement department to get them to commit to c=
+ompleting this within the 4 weeks. If they do, please get Catriona to issue =
+the loan license based on that
+ date.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext"><o:p>&nbsp;</o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Thanks,<o:p></o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Dureid<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext"><o:p>&nbsp;</o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">P.S. I received and app=
+roved the PR this morning, there is one final approval remaining from SVP of=
+ research. Let me know if it is not done end of day.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext"><o:p>&nbsp;</o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext"><o:p>&nbsp;</o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext"><o:p>&nbsp;</o:p></span=
+></p>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt">From: </span></b><sp=
+an style=3D"font-size:12.0pt">Abdul Lateef Khan &lt;<a href=3D"mailto:abdullatee=
+f.khan@ku.ac.ae">abdullateef.khan@ku.ac.ae</a>&gt;<br>
+<b>Date: </b>Thursday, 25 March 2021 at 13:34<br>
+<b>To: </b>Dureid El Moghraby &lt;<a href=3D"mailto:dureid.elmoghraby@ku.ac.a=
+e">dureid.elmoghraby@ku.ac.ae</a>&gt;<br>
+<b>Cc: </b>Ahmed Al Yafei &lt;<a href=3D"mailto:ahmed.alyafei@ku.ac.ae">ahmed=
+.alyafei@ku.ac.ae</a>&gt;<br>
+<b>Subject: </b>FW: Lumerical license renewal<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext"><o:p>&nbsp;</o:p></span=
+></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Dear Dr. =
+Dureid,</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Please fi=
+nd below the response from the supplier regarding the Lumerical temporary li=
+cense file.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">The PR is=
+ under the approval process. Let us know if you recommend any further action=
+.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best Regards, </span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Abdul Lateef</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&#43;971 2 312 3585</span>=
+<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Catriona Scheffer &lt;<a href=3D"mailto:Catriona.S=
+cheffer@ansys.com">Catriona.Scheffer@ansys.com</a>&gt;
+<br>
+<b>Sent:</b> Tuesday, March 23, 2021 8:11 PM<br>
+<b>To:</b> Abdul Lateef Khan &lt;<a href=3D"mailto:abdullateef.khan@ku.ac.ae"=
+>abdullateef.khan@ku.ac.ae</a>&gt;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p><strong><span style=3D"color:#EA161E">[EXTERNAL EMAIL]</span></strong><o:p=
+></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Hello Abdul,</span><o:p=
+></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Certainly, once you hav=
+e an approximate date please let me know and I will create a loan license fo=
+r you.&nbsp; I cannot do so beforehand as dates are required. Please note we=
+ cannot do a loan of more than 3 or
+ 4 weeks. </span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Best regards,</span><o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Catriona</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Abdul Lateef Khan &lt;<a href=3D"mailto:abdullatee=
+f.khan@ku.ac.ae">abdullateef.khan@ku.ac.ae</a>&gt;<br>
+<b>Sent:</b> Tuesday, March 23, 2021 1:34 AM<br>
+<b>To:</b> Catriona Scheffer &lt;<a href=3D"mailto:Catriona.Scheffer@ansys.co=
+m">Catriona.Scheffer@ansys.com</a>&gt;; Daniel Fernandez &lt;<a href=3D"mailto=
+:daniel.fernandez@ansys.com">daniel.fernandez@ansys.com</a>&gt;<br>
+<b>Cc:</b> Ahmed Al Yafei &lt;<a href=3D"mailto:ahmed.alyafei@ku.ac.ae">ahmed=
+.alyafei@ku.ac.ae</a>&gt;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div style=3D"border:solid #9C6500 1.0pt;padding:2.0pt 2.0pt 2.0pt 2.0pt">
+<p style=3D"line-height:12.0pt;background:#FFEB9C"><b><span style=3D"font-size:=
+10.0pt;color:red">[External Sender]</span></b><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Dear Catr=
+iona,</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Welcome b=
+ack, and thank you for your email.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Please do=
+ share a loan of our license time as the work of our end-users is affected. =
+I shall work with our Procurements department and get you the date of the ex=
+pected PO.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best Regards, </span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Abdul Lateef</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&#43;971 2 312 3585</span>=
+<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Catriona Scheffer &lt;<a href=3D"mailto:Catriona.S=
+cheffer@ansys.com">Catriona.Scheffer@ansys.com</a>&gt;<br>
+<b>Sent:</b> Monday, March 22, 2021 7:39 PM<br>
+<b>To:</b> Abdul Lateef Khan &lt;<a href=3D"mailto:abdullateef.khan@ku.ac.ae"=
+>abdullateef.khan@ku.ac.ae</a>&gt;; Daniel Fernandez &lt;<a href=3D"mailto:dan=
+iel.fernandez@ansys.com">daniel.fernandez@ansys.com</a>&gt;<br>
+<b>Cc:</b> Ahmed Al Yafei &lt;<a href=3D"mailto:ahmed.alyafei@ku.ac.ae">ahmed=
+.alyafei@ku.ac.ae</a>&gt;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Hello Abduel,</span><o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">I am back from vacation=
+.&nbsp; Unfortunately, we cannot provide an extended free license.&nbsp; We =
+can however, provide a loan of your license time.&nbsp; For this we will req=
+uire the approximate date of the expected PO.&nbsp;
+ We will then send you the first two or three weeks of your license and upo=
+n receipt of the PO we will forward the remaining license time.</span><o:p><=
+/o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Best regards,</span><o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Catriona</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Abdul Lateef Khan &lt;<a href=3D"mailto:abdullatee=
+f.khan@ku.ac.ae">abdullateef.khan@ku.ac.ae</a>&gt;<br>
+<b>Sent:</b> Saturday, March 20, 2021 10:49 PM<br>
+<b>To:</b> Daniel Fernandez &lt;<a href=3D"mailto:daniel.fernandez@ansys.com"=
+>daniel.fernandez@ansys.com</a>&gt;<br>
+<b>Cc:</b> Ahmed Al Yafei &lt;<a href=3D"mailto:ahmed.alyafei@ku.ac.ae">ahmed=
+.alyafei@ku.ac.ae</a>&gt;; Catriona Scheffer &lt;<a href=3D"mailto:Catriona.Sc=
+heffer@ansys.com">Catriona.Scheffer@ansys.com</a>&gt;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div style=3D"border:solid #9C6500 1.0pt;padding:2.0pt 2.0pt 2.0pt 2.0pt">
+<p style=3D"line-height:12.0pt;background:#FFEB9C"><b><span style=3D"font-size:=
+10.0pt;color:red">[External Sender]</span></b><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Dear Dani=
+el,</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Thank you=
+ for your response.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">I am atta=
+ching the .info and the .lic that were shared earlier. We appreciate it if w=
+e can get the temporary license file for a more extended period.</span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">We are on=
+ top of having this renewed as early as possible; however, at this time, I c=
+annot mention a timeframe.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best Regards, </span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Abdul Lateef</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&#43;971 2 312 3585</span>=
+<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Daniel Fernandez &lt;<a href=3D"mailto:daniel.fern=
+andez@ansys.com">daniel.fernandez@ansys.com</a>&gt;<br>
+<b>Sent:</b> Thursday, March 18, 2021 10:09 PM<br>
+<b>To:</b> Abdul Lateef Khan &lt;<a href=3D"mailto:abdullateef.khan@ku.ac.ae"=
+>abdullateef.khan@ku.ac.ae</a>&gt;<br>
+<b>Cc:</b> Catriona Scheffer &lt;<a href=3D"mailto:Catriona.Scheffer@ansys.co=
+m">Catriona.Scheffer@ansys.com</a>&gt;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Hi Abdul,</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">May I ask how long you =
+expect the renewal processing to take? We can give you a temp license for up=
+ to one week. We will require the machine information of your host computer;=
+ to do this please follow the
+ steps at </span><a href=3D"https://secureurl.ankabut.ac.ae/fmlurlsvc/?fewReq=
+=3D:B:JVI2PTk5Nip6MT4iPCplaDE8PTY8PSp/ZWtibXh5fmkxaTs7P2o/bj5pOT49NDU8ajo5Omk9=
+Om04PzpoNT1oOzw/bjk5P28/OCp4MT06PTo5PTk0NDwqfWVoMT0&#43;QktORX5EPDw7Pj86IT0&=
+#43;QktORX5GPDw7Pj86Kn5vfHgxbW5oeWBgbXhpaWoiZ2RtYkxneSJtbyJtaSpvMTk&#43;KmRo=
+YDE8&amp;url=3Dhttps%3a%2f%2fnam10.safelinks.protection.outlook.com%2f%3furl%3=
+dhttps%253A%252F%252Fsecureurl.ankabut.ac.ae%252Ffmlurlsvc%252F%253FfewReq%2=
+53D%253AB%253AJV07MDIxOyd3PDMvMSdoZTwxMDsxMCdyaGZvYHV0c2Q8N2Q1YzY4ODg5ZzQ4Zz=
+lkMGM5M2BkYDQ5YjkxZDkwODBgNjAzMmVnNCd1PDA3MDc1MzY0NjkncGhlPDAzTEdlYzI3MTExNT=
+YwLDAzTEdlYzI5MTExNTYwJ3NicXU8J2I8NDMnaWVtPDE%253D%2526url%253Dhttps%25253a%=
+25252f%25252fnam10.safelinks.protection.outlook.com%25252f%25253furl%25253dh=
+ttps%2525253A%2525252F%2525252Fsecureurl.ankabut.ac.ae%2525252Ffmlurlsvc%252=
+5252F%2525253FfewReq%2525253D%2525253AB%2525253AJV07MDQ0Oyd3PDMvMSdoZTwxMDsx=
+MCdyaGZvYHV0c2Q8ODc1NzFgZGM4YDMwZTkzMjViYGNlN2NgOTBnZTkyOWdjNTQyYzEzNyd1PDA3=
+MDcxODE4MzcncGhlPDAzSEg5aFcxMTA3NzU2LDAzSEg5aFczMTA3NzU2J3NicXU8YGNldG1tYHVk=
+ZGcvamlgb0FqdC9gYi9gZCdiPDQzJ2llbTwx%25252526url%2525253Dhttps%252525253a%25=
+2525252f%252525252fwww.ansys.com%252525252fit-solutions%252525252flicensing%=
+252525252fcapture-license-server-information%252526data%25253d04%2525257C01%=
+2525257CCatriona.Scheffer%25252540ansys.com%2525257Ce28ed29f240947c1a7c408d8=
+ec2d0874%2525257C34c6ce6715b84eff80e952da8be89706%2525257C0%2525257C0%252525=
+7C637519025513676484%2525257CUnknown%2525257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDA=
+iLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%2525253D%2525257C1000%252526sda=
+ta%25253dLRHbRuYgkq%2525252F%2525252B8yTHqKrz1MR5Iy3KW0%2525252FXOOEsvtSLIJg=
+%2525253D%252526reserved%25253d0%26data%3d04%257C01%257CCatriona.Scheffer%25=
+40ansys.com%257Cac4e555d839b46420eb608d8edd6714f%257C34c6ce6715b84eff80e952d=
+a8be89706%257C0%257C0%257C637520852596392384%257CUnknown%257CTWFpbGZsb3d8eyJ=
+WIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C1000%2=
+6sdata%3d4jRWzFrTeCv6RdRPHyGAnnUvP%252Femh5%252BFUzsb3V4cf%252Fw%253D%26rese=
+rved%3d0">https://www.ansys.com/it-solutions/licensing/capture-license-serve=
+r-information</a><span style=3D"color:windowtext">
+ and return the .INFO file to me.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Best,</span><o:p></o:p>=
+</p>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:5.0pt;margin-right:0in;margi=
+n-bottom:9.0pt;margin-left:0in">
+<b><span style=3D"font-size:10.0pt;color:windowtext">Daniel Fernandez</span><=
+/b><span style=3D"font-size:10.0pt;color:windowtext">&nbsp;</span><b><span sty=
+le=3D"font-size:10.0pt;color:#FFB71B">/</span></b><span style=3D"font-size:10.0p=
+t;color:windowtext">&nbsp;<b>Sales Intern</b></span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:12.0pt;margin-right:0in;marg=
+in-bottom:5.0pt;margin-left:0in">
+<span style=3D"color:windowtext"><img border=3D"0" width=3D"100" height=3D"31" styl=
+e=3D"width:1.0416in;height:.3229in" id=3D"Picture_x0020_4" src=3D"cid:image001.jpg=
+@01D729FA.E915ECD0"></span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:5.0pt;margin-right:0in;margi=
+n-bottom:2.0pt;margin-left:0in">
+<span style=3D"font-size:10.0pt;color:windowtext">1700-1095 West Pender Stree=
+t&nbsp; </span>
+<b><span style=3D"font-size:10.0pt;color:#FFB71B">/</span></b><span style=3D"fo=
+nt-size:10.0pt;color:windowtext">&nbsp;Vancouver, BC, V6E 2M6</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:3.0pt;margin-right:0in;margi=
+n-bottom:9.0pt;margin-left:0in">
+<a href=3D"mailto:Daniel.fernandez@ansys.com"><span style=3D"font-size:10.0pt;c=
+olor:blue">Daniel.fernandez@ansys.com</span></a><span style=3D"font-size:10.0p=
+t;color:windowtext">&nbsp;</span><b><span style=3D"font-size:10.0pt;color:#FFB=
+71B">/</span></b><span style=3D"font-size:10.0pt;color:windowtext">&nbsp;&nbsp=
+;</span><a href=3D"https://secureurl.ankabut.ac.ae/fmlurlsvc/?fewReq=3D:B:JVI2PT=
+k5Nip6MT4iPCplaDE8PTY8PSp/ZWtibXh5fmkxOW5paG06aT81ajQ1ajk7NWppPjo5Ozo9aTptOm=
+87NT4/Pm1uOjVvPSp4MT06PTo5PTk0NDwqfWVoMT0&#43;QktORX5EPDw7Pj86IT0&#43;QktORX=
+5GPDw7Pj86Kn5vfHgxbW5oeWBgbXhpaWoiZ2RtYkxneSJtbyJtaSpvMTk&#43;KmRoYDE8&amp;u=
+rl=3Dhttps%3a%2f%2fnam10.safelinks.protection.outlook.com%2f%3furl%3dhttps%253=
+A%252F%252Fsecureurl.ankabut.ac.ae%252Ffmlurlsvc%252F%253FfewReq%253D%253AB%=
+253AJV07MDIxOyd3PDMvMSdoZTwxMDsxMCdyaGZvYHV0c2Q8YGcxNjAzNzg2MDAxZTlnMzc3ZDU4=
+MzViZTU0YDdlYzdgNzZnNzg1YCd1PDA3MDc1MzY0NjkncGhlPDAzTEdlYzI3MTExNTYwLDAzTEdl=
+YzI5MTExNTYwJ3NicXU8J2I8NDMnaWVtPDE%253D%2526url%253Dhttps%25253a%25252f%252=
+52fnam10.safelinks.protection.outlook.com%25252f%25253furl%25253dhttps%25252=
+53A%2525252F%2525252Fsecureurl.ankabut.ac.ae%2525252Ffmlurlsvc%2525252F%2525=
+253FfewReq%2525253D%2525253AB%2525253AJV07MDQ0Oyd3PDMvMSdoZTwxMDsxMCdyaGZvYH=
+V0c2Q8ZTdkMTdiNWAyZTAyODE2Z2c2Mzg4YGAzNDc3ODU3Z2AzYzRlOGdlNyd1PDA3MDcxODE4Mz=
+cncGhlPDAzSEg5aFcxMTA3NzU2LDAzSEg5aFczMTA3NzU2J3NicXU8YGNldG1tYHVkZGcvamlgb0=
+FqdC9gYi9gZCdiPDQzJ2llbTwx%25252526url%2525253Dhttp%252525253a%252525252f%25=
+2525252fwww.ansys.com%252525252f%252526data%25253d04%2525257C01%2525257CCatr=
+iona.Scheffer%25252540ansys.com%2525257Ce28ed29f240947c1a7c408d8ec2d0874%252=
+5257C34c6ce6715b84eff80e952da8be89706%2525257C0%2525257C0%2525257C6375190255=
+13686482%2525257CUnknown%2525257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2l=
+uMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%2525253D%2525257C1000%252526sdata%25253dcYW=
+D5WKXbzXjjZZgC5Ip%2525252B%2525252F01F092m%2525252FCYq3Nmw5qNHQw%2525253D%25=
+2526reserved%25253d0%26data%3d04%257C01%257CCatriona.Scheffer%2540ansys.com%=
+257Cac4e555d839b46420eb608d8edd6714f%257C34c6ce6715b84eff80e952da8be89706%25=
+7C0%257C0%257C637520852596502340%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjA=
+wMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C1000%26sdata%3d%25=
+2FcSywCdQjYAqr1xTpzvL4YAaYP3GII%252FRkcSYcwIGEVs%253D%26reserved%3d0"><span =
+style=3D"font-size:10.0pt;color:blue">www.ansys.com</span></a><o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Abdul Lateef Khan &lt;<a href=3D"mailto:abdullatee=
+f.khan@ku.ac.ae">abdullateef.khan@ku.ac.ae</a>&gt;<br>
+<b>Sent:</b> Thursday, March 18, 2021 2:19 AM<br>
+<b>To:</b> Daniel Fernandez &lt;<a href=3D"mailto:daniel.fernandez@ansys.com"=
+>daniel.fernandez@ansys.com</a>&gt;; Fatema Chowdhury &lt;<a href=3D"mailto:Fa=
+tema.Chowdhury@ansys.com">Fatema.Chowdhury@ansys.com</a>&gt;<br>
+<b>Cc:</b> Catriona Scheffer &lt;<a href=3D"mailto:Catriona.Scheffer@ansys.co=
+m">Catriona.Scheffer@ansys.com</a>&gt;<br>
+<b>Subject:</b> FW: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div style=3D"border:solid #9C6500 1.0pt;padding:2.0pt 2.0pt 2.0pt 2.0pt">
+<p style=3D"line-height:12.0pt;background:#FFEB9C"><b><span style=3D"font-size:=
+10.0pt;color:red">[External Sender]</span></b><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Dear Coll=
+eagues,</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">I receive=
+d an out-of-office reply from Catriona. We appreciate it if you could please=
+ look into the below request.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best Regards, </span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Abdul Lateef</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&#43;971 2 312 3585</span>=
+<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Abdul Lateef Khan<br>
+<b>Sent:</b> Thursday, March 18, 2021 12:21 PM<br>
+<b>To:</b> 'Catriona Scheffer' &lt;</span><a href=3D"mailto:Catriona.Scheffer=
+@ansys.com">Catriona.Scheffer@ansys.com</a><span style=3D"color:windowtext">&g=
+t;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Dear Catr=
+iona,</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">I hope al=
+l is well with you.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">I need yo=
+ur help as my emails to the support team are being kept on hold.</span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Would you=
+ please arrange to send us a temporary license file as the current license f=
+ile expires in another four days while we work on processing the renewal?</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best Regards, </span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Abdul Lateef</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&#43;971 2 312 3585</span>=
+<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Abdul Lateef Khan<br>
+<b>Sent:</b> Tuesday, March 9, 2021 8:34 AM<br>
+<b>To:</b> 'Catriona Scheffer' &lt;</span><a href=3D"mailto:Catriona.Scheffer=
+@ansys.com">Catriona.Scheffer@ansys.com</a><span style=3D"color:windowtext">&g=
+t;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Dear Catr=
+iona,</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">Thank you=
+ for the follow-up. We shall get back to you in case we have any clarificati=
+ons.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best Regards, </span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Abdul Lateef</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&#43;971 2 312 3585</span>=
+<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:#1F497D">&nbsp;</s=
+pan><o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Catriona Scheffer &lt;</span><a href=3D"mailto:Cat=
+riona.Scheffer@ansys.com">Catriona.Scheffer@ansys.com</a><span style=3D"color:=
+windowtext">&gt;<br>
+<b>Sent:</b> Tuesday, March 9, 2021 12:59 AM<br>
+<b>To:</b> Abdul Lateef Khan &lt;</span><a href=3D"mailto:abdullateef.khan@ku=
+.ac.ae">abdullateef.khan@ku.ac.ae</a><span style=3D"color:windowtext">&gt;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Hello Abdul,</span><o:p=
+></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Did you have any questi=
+ons on the quotation?&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Best regards,</span><o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Catriona</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Catriona Scheffer<br>
+<b>Sent:</b> Wednesday, February 24, 2021 9:25 AM<br>
+<b>To:</b> Abdul Lateef Khan &lt;</span><a href=3D"mailto:abdullateef.khan@ku=
+.ac.ae">abdullateef.khan@ku.ac.ae</a><span style=3D"color:windowtext">&gt;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Hello Abdul.</span><o:p=
+></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Please find attached re=
+newal quotation along with our EUC form which we need filling out due to Ans=
+ys Inc. Expert control regulations.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal">Please also fill out the attached information so that =
+we may process your order with the correct machine information.<o:p></o:p></=
+p>
+<p class=3D"MsoNormal"><a href=3D"https://secureurl.ankabut.ac.ae/fmlurlsvc/?fe=
+wReq=3D:B:JVI2PTk5Nip6MT4iPCplaDE8PTY8PSp/ZWtibXh5fmkxOz5ob21pPjQ4bm41bz9pPzw8=
+PG4&#43;PzxtNDxpOW5uO25uOWloNWhpPCp4MT06PTo5PTk0NDwqfWVoMT0&#43;QktORX5EPDw7=
+Pj86IT0&#43;QktORX5GPDw7Pj86Kn5vfHgxbW5oeWBgbXhpaWoiZ2RtYkxneSJtbyJtaSpvMTk&=
+#43;KmRoYDE8&amp;url=3Dhttps%3a%2f%2fnam10.safelinks.protection.outlook.com%2f=
+%3furl%3dhttps%253A%252F%252Fsecureurl.ankabut.ac.ae%252Ffmlurlsvc%252F%253F=
+fewReq%253D%253AB%253AJV07MDIxOyd3PDMvMSdoZTwxMDsxMCdyaGZvYHV0c2Q8YmAwMWc3Yz=
+g1NWdiYmcwMTQ0Z2MxMjZlNmc4ZDA3MTU4ZGQ3Mmc4NCd1PDA3MDc1MzY0NjkncGhlPDAzTEdlYz=
+I3MTExNTYwLDAzTEdlYzI5MTExNTYwJ3NicXU8J2I8NDMnaWVtPDE%253D%2526url%253Dhttps=
+%25253a%25252f%25252fnam10.safelinks.protection.outlook.com%25252f%25253furl=
+%25253dhttps%2525253A%2525252F%2525252Fsecureurl.ankabut.ac.ae%2525252Ffmlur=
+lsvc%2525252F%2525253FfewReq%2525253D%2525253AB%2525253AJV07MDQ0Oyd3PDMvMSdo=
+ZTwxMDsxMCdyaGZvYHV0c2Q8OTQwYDcyNjY4MjM4Y2BgMDZnNjNjNzI4OWUxOGUyMjA2NDA2ODYy=
+NCd1PDA3MDcxODE4MzcncGhlPDAzSEg5aFcxMTA3NzU2LDAzSEg5aFczMTA3NzU2J3NicXU8YGNl=
+dG1tYHVkZGcvamlgb0FqdC9gYi9gZCdiPDQzJ2llbTwx%25252526url%2525253Dhttps%25252=
+5253a%252525252f%252525252fnam10.safelinks.protection.outlook.com%252525252f=
+%252525253furl%252525253dhttps%25252525253A%25252525252F%25252525252Fsecureu=
+rl.ankabut.ac.ae%25252525252Ffmlurlsvc%25252525252F%25252525253FfewReq%25252=
+525253D%25252525253AB%25252525253AJVUzODw8My9%25252525252FNDsnOS9gbTQ5ODM5OC=
+96YG5naH18e2w0PWxobT4xPz8%25252525252FOm84bWsxa20%25252525252BMGs9MTg7Pj9qaj=
+xsMTtrOTBtb2w8OS99NDg%25252525252FODw7Oj44PjAveGBtNDg7MUJxazhvOTk4MT0xJDg7MU=
+JxazhhOTk4MT0xL3tqeX00aGttfGVlaH1sbG8nYmFoZ0lifCdoaidobC9qNDw7L2FtZTQ5%25252=
+5252526url%25252525253Dhttps%2525252525253a%2525252525252f%2525252525252fwww=
+.ansys.com%2525252525252fsolutions%2525252525252fsolutions-by-role%252525252=
+5252fit-professionals%2525252525252flicensing%2525252525252fcapture-license-=
+server-information%2525252526data%252525253d04%25252525257C01%25252525257Cda=
+niel.fernandez%252525252540ansys.com%25252525257Cf7e581030d464148b36608d8e9e=
+ed675%25252525257C34c6ce6715b84eff80e952da8be89706%25252525257C0%25252525257=
+C0%252" title=3D"https://www.ansys.com/solutions/solutions-by-role/it-professi=
+onals/licensing/capture-license-server-information"><span style=3D"font-size:1=
+0.5pt;font-family:&quot;Segoe UI&quot;,sans-serif">https://www.ansys.com/sol=
+utions/solutions-by-role/it-professionals/licensing/capture-license-server-i=
+nformation</span></a><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">If you have any questio=
+ns, please let me know.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Best regards,</span><o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Catriona</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Abdul Lateef Khan &lt;</span><a href=3D"mailto:abd=
+ullateef.khan@ku.ac.ae">abdullateef.khan@ku.ac.ae</a><span style=3D"color:wind=
+owtext">&gt;<br>
+<b>Sent:</b> Tuesday, February 23, 2021 7:54 PM<br>
+<b>To:</b> Catriona Scheffer &lt;</span><a href=3D"mailto:Catriona.Scheffer@a=
+nsys.com">Catriona.Scheffer@ansys.com</a><span style=3D"color:windowtext">&gt;=
+<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div style=3D"border:solid #9C6500 1.0pt;padding:2.0pt 2.0pt 2.0pt 2.0pt">
+<p style=3D"line-height:12.0pt;background:#FFEB9C"><b><span style=3D"font-size:=
+10.0pt;color:red">[External Sender]</span></b><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Dear Catriona,</span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span><o:p></o:p></=
+p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Thank you for sharing the =
+details.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span><o:p></o:p></=
+p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Please share the formal pr=
+oposal.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span><o:p></o:p></=
+p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best Regards, </span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Abdul Lateef</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&#43;971 2 312 3585</span>=
+<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span><o:p></o:p></=
+p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0i=
+n 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b><spa=
+n style=3D"color:windowtext"> Catriona Scheffer &lt;</span><a href=3D"mailto:Cat=
+riona.Scheffer@ansys.com">Catriona.Scheffer@ansys.com</a><span style=3D"color:=
+windowtext">&gt;<br>
+<b>Sent:</b> Thursday, February 11, 2021 9:42 PM<br>
+<b>To:</b> Abdul Lateef Khan &lt;</span><a href=3D"mailto:abdullateef.khan@ku=
+.ac.ae">abdullateef.khan@ku.ac.ae</a><span style=3D"color:windowtext">&gt;<br>
+<b>Subject:</b> RE: Lumerical license renewal</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Hello Abdul,</span><o:p=
+></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">I outlined most of the =
+differences in my previous email.&nbsp; The packages are very similar.</span=
+><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Previously you purchase=
+d our Silver Site License which came with 30 FDTD licenses and 20 licenses o=
+f our other products, MODE, DGTD, HEAT, FEEM, CHARGE, MQW, STACK and INTERCO=
+NNECT.&nbsp; You also purchase our
+ virtuoso interop license. The cost was 25,920 USD excluding duties and tax=
+es.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">This year we have a 25 =
+Task Research bundle which includes 25 licenses of each of our products as w=
+ell as all our interoperability products and cml compiler. Each GUI license =
+comes with 4 engines with a 32
+ core limit each.&nbsp; Our products, including our intereroperability prod=
+ucts may be found on our website,</span><a href=3D"https://secureurl.ankabut.a=
+c.ae/fmlurlsvc/?fewReq=3D:B:JVI2PTk5Nip6MT4iPCplaDE8PTY8PSp/ZWtibXh5fmkxPjhoOD=
+1qaTU0Oj5oP2hqOW1oNDk5OzQ6PWk5NGo1aTQ9aWg0OzluOip4MT06PTo5PTk0NDwqfWVoMT0&#4=
+3;QktORX5EPDw7Pj86IT0&#43;QktORX5GPDw7Pj86Kn5vfHgxbW5oeWBgbXhpaWoiZ2RtYkxneS=
+JtbyJtaSpvMTk&#43;KmRoYDE8&amp;url=3Dhttps%3a%2f%2fnam10.safelinks.protection.=
+outlook.com%2f%3furl%3dhttps%253A%252F%252Fsecureurl.ankabut.ac.ae%252Ffmlur=
+lsvc%252F%253FfewReq%253D%253AB%253AJV07MDIxOyd3PDMvMSdoZTwxMDsxMCdyaGZvYHV0=
+c2Q8ZDllZWNlZTJnYjQxOTA0NzcyMGQ3YjE3OWc5MTQxYmBkOTVkZTYwZyd1PDA3MDc1MzY0Njkn=
+cGhlPDAzTEdlYzI3MTExNTYwLDAzTEdlYzI5MTExNTYwJ3NicXU8J2I8NDMnaWVtPDE%253D%252=
+6url%253Dhttps%25253a%25252f%25252fnam10.safelinks.protection.outlook.com%25=
+252f%25253furl%25253dhttps%2525253A%2525252F%2525252Fsecureurl.ankabut.ac.ae=
+%2525252Ffmlurlsvc%2525252F%2525253FfewReq%2525253D%2525253AB%2525253AJV07MD=
+Q0Oyd3PDMvMSdoZTwxMDsxMCdyaGZvYHV0c2Q8NDAyMTQ2NTIzMjkxYDg3NWM1YmUzYjM5MjQ2Z2=
+U5ZDhkYjc2Y2NgMSd1PDA3MDcxODE4MzcncGhlPDAzSEg5aFcxMTA3NzU2LDAzSEg5aFczMTA3Nz=
+U2J3NicXU8YGNldG1tYHVkZGcvamlgb0FqdC9gYi9gZCdiPDQzJ2llbTwx%25252526url%25252=
+53Dhttps%252525253a%252525252f%252525252fnam10.safelinks.protection.outlook.=
+com%252525252f%252525253furl%252525253dhttps%25252525253A%25252525252F%25252=
+525252Fsecureurl.ankabut.ac.ae%25252525252Ffmlurlsvc%25252525252F%2525252525=
+3FfewReq%25252525253D%25252525253AB%25252525253AJVUzODw8My9%25252525252FNDsn=
+OS9gbTQ5ODM5OC96YG5naH18e2w0OG1tPTAwO2sxbzBsMGprbzxoMTptbDo9azhtajs4MWs6MDo9=
+OW8%25252525252FPi99NDg%25252525252FODw7Oj44PjAveGBtNDg7MUJxazhvOTk4MT0xJDg7=
+MUJxazhhOTk4MT0xL3tqeX00aGttfGVlaH1sbG8nYmFoZ0lifCdoaidobC9qNDw7L2FtZTQ5%252=
+525252526url%25252525253Dhttps%2525252525253a%2525252525252f%2525252525252fn=
+am10.safelinks.protection.outlook.com%2525252525252f%2525252525253furl%25252=
+52525253dhttps%252525252525253A%252525252525252F%252525252525252Fsecureurl.a=
+nkabut.ac.ae%252525252525252Ffmlurlsvc%252525252525252F%252525252525253FfewR=
+eq%252525252525253D%252525252525253AB%252525252525253AJVI2PTk5Nip6MT4iPCplaD=
+E8PTY8PSp%252525252525252FZWtibXh5fmkxbWlvPz08PGk%252525252525252FPz44bzQ1aj=
+k%252525252525252BPD">
+ https://www.lumerical.com/products/</a><span style=3D"color:windowtext">&nbs=
+p; The 1 year cost is 24,800.00 USD excluding duties and taxes.</span><o:p><=
+/o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">The cost is lower this =
+year than previously.&nbsp; The main differences are you only have 25 FDTD r=
+ather than 30.&nbsp; However, you also have all of our interoperability lice=
+nses and the cml compiler, previously not
+ included.</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Best regards,</span><o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">Catriona</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:windowtext">&nbsp;</span><o:p></o:p=
+></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+
+--B_3714913458_1066710527--
+
+
+--B_3714913458_2142821174
+Content-type: image/jpeg; name="image001.jpg";
+ x-mac-creator="4F50494D";
+ x-mac-type="4A504547"
+Content-ID: <image001.jpg@01D729FA.E915ECD0>
+Content-disposition: inline;
+	filename="image001.jpg"
+Content-transfer-encoding: base64
+
+
+/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMaaHR0
+cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1
+TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5z
+Om1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzE0OCA3OS4xNjQwMzYsIDIw
+MTkvMDgvMTMtMDE6MDY6NTcgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDov
+L3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRp
+b24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8x
+LjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBl
+L1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkVCQTY3QzY0NDlCRTExRUE4MkI0QTk4MjhG
+MEU0QjZBIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkVCQTY3QzYzNDlCRTExRUE4MkI0
+QTk4MjhGMEU0QjZBIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCAyMDIwIFdp
+bmRvd3MiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0iNTQyREQ3RkRC
+RDEyRjI4QkY3RUFDQjIxNjU3MzQzRTkiIHN0UmVmOmRvY3VtZW50SUQ9IjU0MkREN0ZEQkQx
+MkYyOEJGN0VBQ0IyMTY1NzM0M0U5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+
+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+/+4ADkFkb2JlAGTAAAAAAf/bAIQA
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgIC
+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
+--B_3714913458_2142821174--
+
+
+--B_3714913458_2015556748--
+

@@ -1,0 +1,1 @@
+The discussion with Dr. Dureid and Sanyo (RC administaror), they confirmed that the backup is not done for HPC (only config files). Also, there is no complete backup for VM's (only OS - operating system). This is also confirmed with Sofiane - IT.

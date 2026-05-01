@@ -1,0 +1,1005 @@
+Received: from KU1ICCSWV003.kunet.ae (10.192.12.12) by KU1ICCSWV006.kunet.ae
+ (10.192.12.15) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.14 via Mailbox
+ Transport; Tue, 3 Aug 2021 14:47:19 +0400
+Received: from KU1ICCSWV006.kunet.ae (10.192.12.15) by KU1ICCSWV003.kunet.ae
+ (10.192.12.12) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.14; Tue, 3 Aug
+ 2021 14:47:19 +0400
+Received: from KU1ICCSWV006.kunet.ae ([fe80::893b:1256:a6ec:f539]) by
+ KU1ICCSWV006.kunet.ae ([fe80::893b:1256:a6ec:f539%6]) with mapi id
+ 15.01.2176.014; Tue, 3 Aug 2021 14:47:19 +0400
+From: Vinisha Pillai <vinisha.pillai@ku.ac.ae>
+To: Dureid El Moghraby <dureid.elmoghraby@ku.ac.ae>
+CC: Research Computing <ResearchComputing@ku.ac.ae>
+Subject: FW: environment variable for ansyslmd.ini
+Thread-Topic: environment variable for ansyslmd.ini
+Thread-Index: AQHXh4HsaWC//p8ldkKR55/3EVpvbKthVlWQ///GSgCAAANKgIAAa+EA///K0oCAAEQwAA==
+Date: Tue, 3 Aug 2021 14:47:19 +0400
+Message-ID: <289bfe0efc844f128c9b9b2299b4a54b@ku.ac.ae>
+References: <CABmMSJeU7B=yzB8Ugn8+bb7PFqGEj68uAivn9u7fzq5L5ttVdQ@mail.gmail.com>
+ <7b078ed0febd4de8bc85e07a4b04669b@ku.ac.ae>
+ <CABmMSJeSzi7Rc-0UnXB8ydOgMXzgDghMiozukXpUCehp=yd7aQ@mail.gmail.com>
+ <CABmMSJeqVWk0Kt=eZu6jiHLWYsWQYXsJfhxSh3FcRo3JgGzYqw@mail.gmail.com>
+ <77664a419c9f43c381ecb9718a69c9e7@ku.ac.ae>
+ <CABmMSJcw2WXmwCO9q7nryzOWcO=7ke5ckEi+uOayVTarqvZBtg@mail.gmail.com>
+In-Reply-To: <CABmMSJcw2WXmwCO9q7nryzOWcO=7ke5ckEi+uOayVTarqvZBtg@mail.gmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <289bfe0efc844f128c9b9b2299b4a54b@ku.ac.ae>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: KU1ICCSWV006.kunet.ae
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [10.192.12.100]
+X-MS-Exchange-Organization-Network-Message-Id: e880c86f-b4c2-4123-6cde-08d9566c10ff
+Return-Path: vinisha.pillai@ku.ac.ae
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-C2ProcessedOrg: c1413343-9e07-4ec7-8065-f0737cbb1a25
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4000727
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.014
+Content-type: multipart/mixed;
+	boundary="B_3714914018_150568765"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3714914018_150568765
+Content-type: multipart/related;
+	boundary="B_3714914018_849174448"
+
+--B_3714914018_849174448
+Content-type: multipart/alternative;
+	boundary="B_3714914018_90877583"
+
+
+--B_3714914018_90877583
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+FYI
+
+ 
+
+Kind Regards,
+
+Vinisha Pillai
+System Senior Administrator (UNIX)
+Research Computing
+
+
+P O Box 127788, Abu Dhabi, UAE
+T +971 2 312 4418
+ku.ac.ae
+
+ 
+
+From: Sharan Krishnan <sharan.k@fluidcodes.com> 
+Sent: Tuesday, August 3, 2021 2:43 PM
+To: Vinisha Pillai <vinisha.pillai@ku.ac.ae>
+Cc: Sanyo John Illikkal <sanyo.illikkal@ku.ac.ae>; Kiran Srivasthava <kiran.s@fluidcodes.com>; Philippe Lott <philippe.lott@fluidcodes.com>
+Subject: Re: environment variable for ansyslmd.ini
+
+ 
+
+CAUTION: This email is from an external sender. Be  cautious with links and attachments.
+
+ 
+
+Hi Vinisha ,
+
+ 
+
+I cross-checked the license increments and diagnostic files.
+
+ 
+
+2021 R1+ versions require new increments and hence only up to 2020 R2 is currently working.
+
+ 
+
+This is the reason why Fluent 2020 R2 is working & 2021 R1 is not working.
+
+ 
+
+I have copied Mr Kiran , Account Manager for Khalifa University, I discussed this with him & apparently Khalifa University in currently under the process of TECS renewal , once this renewal is done you will be issued the updated key.
+
+ 
+
+Thanks,
+
+Sharan Krishnan
+
+ 
+
+ 
+
+On Tue, Aug 3, 2021 at 1:53 PM Vinisha Pillai <vinisha.pillai@ku.ac.ae> wrote:
+
+Dear Sharan,
+
+ 
+
+We have uploaded the log files as requested.
+
+ 
+
+Thank you.
+
+Kind Regards,
+
+Vinisha Pillai
+System Senior Administrator (UNIX)
+Research Computing
+
+
+P O Box 127788, Abu Dhabi, UAE
+T +971 2 312 4418
+ku.ac.ae
+
+ 
+
+From: Sharan Krishnan <sharan.k@fluidcodes.com> 
+Sent: Tuesday, August 3, 2021 11:27 AM
+To: Vinisha Pillai <vinisha.pillai@ku.ac.ae>
+Subject: Re: environment variable for ansyslmd.ini
+
+ 
+
+CAUTION:  This email is from an external sender. Be cautious with links and attachments.
+
+ 
+
+Microsoft Teams meeting 
+
+Join on your computer or mobile app 
+
+Click  here to join the meeting 
+
+Learn  More 
+
+ 
+
+On Tue, Aug 3, 2021 at 11:15 AM Sharan Krishnan <sharan.k@fluidcodes.com> wrote:
+
+Hi Vinisha ,
+
+ 
+
+Shall i send you a teams invite now ?
+
+Thanks,
+
+Sharan
+
+ 
+
+On Tue, Aug 3, 2021 at 10:42 AM Vinisha Pillai <vinisha.pillai@ku.ac.ae> wrote:
+
+Hi Sharan,
+
+ 
+
+I am available for Anydesk session whenever u are free.
+
+ 
+
+Thank you.
+
+Kind Regards,
+
+Vinisha Pillai
+System Senior Administrator (UNIX)
+Research Computing
+
+
+P O Box 127788, Abu Dhabi, UAE
+T +971 2 312 4418
+ku.ac.ae
+
+ 
+
+From: Sharan Krishnan <sharan.k@fluidcodes.com> 
+Sent: Monday, August 2, 2021 1:06 PM
+To: Vinisha Pillai <vinisha.pillai@ku.ac.ae>
+Subject: environment variable for ansyslmd.ini
+
+  
+
+CAUTION:  This email is from an external sender. Be cautious with links and attachments.
+
+  
+
+
+
+ANSYSLI_TIMEOUT_FLEXLM
+set this to take a value of 60
+This will delay the timeout by 60s, and should give the interconnect time to re-establish a connection.
+
+ANSYSLI_TIMEOUT_CONNECT
+Used to specify the amount of time that elapses before the client times out if it cannot connect to the server. Default is 20 seconds. Minimum timeout period you can specify is 5 seconds and the maximum is 60 seconds. If the client determines that a server  is not available in less time, it will cancel immediately.
+
+ANSYSLI_TIMEOUT_TCP
+Used to specify the amount of time that elapses before the client times out if it cannot get a response from the server. This setting applies only when the license server is running but is responding slowly ( generally because of network issues or server load).  Default is 60 seconds. Minimum timeout period you can specify is 30 seconds and the maximum is 300 seconds.
+
+FLEXLM_TIMEOUT   
+If this is  set to a value of 1500000. It can helps prevent a license request from timing out if there is a long delay in the license server receiving and responding to a license request
+
+
+--B_3714914018_90877583
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsof=
+t-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmlns:m=
+=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org=
+/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Semibold";
+	panose-1:2 11 7 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,sans-serif;color:#1F497D">FYI<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,sans-serif;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#1D49A=
+7">Kind Regards,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#1D49A=
+7">Vinisha Pillai</span></b><span style=3D"font-family:&quot;Calibri&quot;,san=
+s-serif;color:#595959"><br>
+System Senior Administrator (UNIX)<br>
+Research Computing<br>
+<br>
+</span><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#00336=
+6"><img width=3D"186" height=3D"59" style=3D"width:1.9375in;height:.618in" id=3D"Pic=
+ture_x0020_1" src=3D"cid:17b0b98bec64cff311" alt=3D"cid:image001_5b9d5da2-5226-4=
+98c-8efe-a7084a62646b.png"><br>
+</span><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#59595=
+9">P O Box 127788, Abu Dhabi, UAE<br>
+<b>T</b> &#43;971 2 312 4418<br>
+<a href=3D"http://www.ku.ac.ae/"><span style=3D"color:#0563C1">ku.ac.ae</span><=
+/a><br>
+<img border=3D"0" width=3D"155" height=3D"32" style=3D"width:1.618in;height:.3333in=
+" id=3D"Picture_x0020_2" src=3D"cid:17b0b98bec65b16b22" alt=3D"cid:social_logos_bc=
+6725d5-148a-4909-ae81-760d8b1c3dc4.png"></span><span style=3D"font-family:&quo=
+t;Calibri&quot;,sans-serif;color:#595959"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,sans-serif;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,sans-serif"> Sharan Krishnan &lt;sharan.k@fluidcode=
+s.com&gt;
+<br>
+<b>Sent:</b> Tuesday, August 3, 2021 2:43 PM<br>
+<b>To:</b> Vinisha Pillai &lt;vinisha.pillai@ku.ac.ae&gt;<br>
+<b>Cc:</b> Sanyo John Illikkal &lt;sanyo.illikkal@ku.ac.ae&gt;; Kiran Sriva=
+sthava &lt;kiran.s@fluidcodes.com&gt;; Philippe Lott &lt;philippe.lott@fluid=
+codes.com&gt;<br>
+<b>Subject:</b> Re: environment variable for ansyslmd.ini<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot;Ari=
+al&quot;,sans-serif;color:red;background:#FFEFC6">CAUTION:</span></b><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;background:#=
+FFEFC6"> This email is from an external sender. Be
+ cautious with links and attachments.</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<p class=3D"MsoNormal">Hi Vinisha ,<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">I cross-checked the license increments and diagnostic&=
+nbsp;files.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">2021 R1&#43; versions&nbsp;require new increments and =
+hence only up to 2020 R2 is currently working.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">This is the reason why Fluent 2020 R2 is working &amp;=
+ 2021 R1 is not working.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">I have copied Mr Kiran , Account Manager for Khalifa U=
+niversity, I discussed this with him &amp; apparently&nbsp;Khalifa Universit=
+y in currently under the process of TECS renewal , once this renewal is done=
+ you will be issued the updated key.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Thanks,<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Sharan Krishnan<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal">On Tue, Aug 3, 2021 at 1:53 PM Vinisha Pillai &lt;<a h=
+ref=3D"mailto:vinisha.pillai@ku.ac.ae">vinisha.pillai@ku.ac.ae</a>&gt; wrote:<=
+o:p></o:p></p>
+</div>
+<blockquote style=3D"border:none;border-left:solid #CCCCCC 1.0pt;padding:0in =
+0in 0in 6.0pt;margin-left:4.8pt;margin-right:0in">
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">Dear Sharan,</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">We have uploaded the log files as requested.</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">Thank you.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#1D49A=
+7">Kind Regards,</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#1D49A=
+7">Vinisha Pillai</span></b><span style=3D"font-family:&quot;Calibri&quot;,san=
+s-serif;color:#595959"><br>
+System Senior Administrator (UNIX)<br>
+Research Computing<br>
+<br>
+</span><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#00336=
+6"><img border=3D"0" width=3D"186" height=3D"59" style=3D"width:1.9375in;height:.618=
+in" id=3D"gmail-m_1855119195827601266Picture_x0020_1" src=3D"cid:17b0b98bec64cff=
+311" alt=3D"cid:image001_5b9d5da2-5226-498c-8efe-a7084a62646b.png"><br>
+</span><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#59595=
+9">P O Box 127788, Abu Dhabi, UAE<br>
+<b>T</b> &#43;971 2 312 4418<br>
+<a href=3D"https://secureurl.ankabut.ac.ae/fmlurlsvc/?fewReq=3D:B:JVQwOz85MCx8N=
+zgkOixjbjc6OzA6Oyx5Y21ka35/eG83OT1vOGgyP25uODluM2s/Oz0ybjlvMz47OzprODo6P2s9P=
+j9vPmg/PCx&#43;Nzs8OD0zMj05MzMse2NuNzs9OUtiQ3syOjg&#43;Pjw6Jzs9OUtiQ3tLOjg&#=
+43;Pjw6LHhpen43fGNkY3liayR6Y2Zma2NKYX8ka2kka28saTc5OixibmY3Og=3D=3D&amp;url=3Dhttp=
+%3a%2f%2fwww.ku.ac.ae%2f"><span style=3D"color:#0563C1">ku.ac.ae</span></a><br=
+>
+<img border=3D"0" width=3D"155" height=3D"32" style=3D"width:1.618in;height:.3333in=
+" id=3D"gmail-m_1855119195827601266Picture_x0020_2" src=3D"cid:17b0b98bec65b16b2=
+2" alt=3D"cid:social_logos_bc6725d5-148a-4909-ae81-760d8b1c3dc4.png"></span><o=
+:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">From:</span></b><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,sans-serif"> Sharan Krishnan &lt;<a href=3D"mailto:sharan.k@fluidcodes=
+.com">sharan.k@fluidcodes.com</a>&gt;
+<br>
+<b>Sent:</b> Tuesday, August 3, 2021 11:27 AM<br>
+<b>To:</b> Vinisha Pillai &lt;<a href=3D"mailto:vinisha.pillai@ku.ac.ae">vini=
+sha.pillai@ku.ac.ae</a>&gt;<br>
+<b>Subject:</b> Re: environment variable for ansyslmd.ini</span><o:p></o:p>=
+</p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-ser=
+if;color:red;background:#FFEFC6">CAUTION:</span></b><span style=3D"font-size:1=
+0.0pt;font-family:&quot;Arial&quot;,sans-serif;background:#FFEFC6">
+ This email is from an external sender. Be cautious with links and attachme=
+nts.</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">&nbsp;<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:18.0pt;color:#252424">Microsoft Teams meeting</s=
+pan>
+<o:p></o:p></p>
+<div style=3D"margin-bottom:15.0pt">
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-size:10.5pt;color:#252424">Join on your computer o=
+r mobile app</span></b><b>
+</b><o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><a href=3D"https://secureurl.ankabut.ac.ae/fmlurlsvc/?fewReq=3D:B:JVs5MjYwO=
+SV1PjEtMyVqZz4zMjkzMiVwamRtYnd2cWY&#43;OzZmZjY3NDIxM2ExNGFmYDRnYjU1NDBnMDRgN=
+jc3MWU1Nzc0O2UwMyV3PjI1MTQ6NDY1NjAlcmpnPjI0MDRRVG5gMzI2NzozLjI0MDRRVG5mMzI2N=
+zozJXFgc3c&#43;dWptanBrYi1zam9vYmpDaHYtYmAtYmYlYD46NiVrZ28&#43;Mw=3D=3D&amp;url=3D=
+https%3a%2f%2fteams.microsoft.com%2fl%2fmeetup-join%2f19%253ameeting_NTk4Zjg=
+4NGItODM5OS00ZWZkLTgyNjItMTc2ZDBjZjcxZTZl%2540thread.v2%2f0%3fcontext%3d%257=
+b%2522Tid%2522%253a%2522403a8271-7576-4f2b-a1ad-4131e91da2cf%2522%252c%2522O=
+id%2522%253a%252255828256-93cc-4455-9ee9-32e6aa767e8b%2522%257d"><span style=
+=3D"font-size:10.5pt;font-family:&quot;Segoe UI Semibold&quot;,sans-serif;colo=
+r:#6264A7">Click
+ here to join the meeting</span></a> <o:p></o:p></p>
+</div>
+<div style=3D"margin-top:15.0pt;margin-bottom:.25in">
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><a href=3D"https://secureurl.ankabut.ac.ae/fmlurlsvc/?fewReq=3D:B:JVs5MjYwO=
+SV1PjEtMyVqZz4zMjkzMiVwamRtYnd2cWY&#43;ZjJhM2Y1YjE0O2I3YTFiYDMwZWY0MmY3MWIxZ=
+js0ZzdlYGVmOjY7NCV3PjI1MTQ6NDY1NjAlcmpnPjI0MDRRVG5gMzI2NzozLjI0MDRRVG5mMzI2N=
+zozJXFgc3c&#43;dWptanBrYi1zam9vYmpDaHYtYmAtYmYlYD42MSVrZ28&#43;Mw=3D=3D&amp;url=3D=
+https%3a%2f%2faka.ms%2fJoinTeamsMeeting"><span style=3D"font-size:10.5pt;font-=
+family:&quot;Segoe UI&quot;,sans-serif;color:#6264A7">Learn
+ More</span></a> <o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">&nbsp;<o:p></o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">On Tue, Aug 3, 2021 at 11:15 AM Sharan Krishnan &lt;<a href=3D"mailto:sha=
+ran.k@fluidcodes.com">sharan.k@fluidcodes.com</a>&gt; wrote:<o:p></o:p></p>
+</div>
+<blockquote style=3D"border:none;border-left:solid #CCCCCC 1.0pt;padding:0in =
+0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-bot=
+tom:5.0pt">
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">Hi Vinisha ,<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;margin-bottom:12.0pt">S=
+hall i send you a teams invite now ?<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">Thanks,<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">Sharan<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">&nbsp;<o:p></o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto">On Tue, Aug 3, 2021 at 10:42 AM Vinisha Pillai &lt;<a href=3D"mailto:vini=
+sha.pillai@ku.ac.ae">vinisha.pillai@ku.ac.ae</a>&gt; wrote:<o:p></o:p></p>
+</div>
+<blockquote style=3D"border:none;border-left:solid #CCCCCC 1.0pt;padding:0in =
+0in 0in 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-bot=
+tom:5.0pt">
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">Hi Sharan,</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">I am available for Anydesk session whenever u are free.</sp=
+an><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">Thank you.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#1D49A=
+7">Kind Regards,</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#1D49A=
+7">Vinisha Pillai</span></b><span style=3D"font-family:&quot;Calibri&quot;,san=
+s-serif;color:#595959"><br>
+System Senior Administrator (UNIX)<br>
+Research Computing<br>
+<br>
+</span><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#00336=
+6"><img border=3D"0" width=3D"186" height=3D"59" style=3D"width:1.9375in;height:.618=
+in" id=3D"gmail-m_1855119195827601266gmail-m_-2532226298006165461gmail-m_79294=
+80067514464323Picture_x0020_1" src=3D"cid:17b0b98bec64cff311" alt=3D"cid:image00=
+1_5b9d5da2-5226-498c-8efe-a7084a62646b.png"><br>
+</span><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#59595=
+9">P O Box 127788, Abu Dhabi, UAE<br>
+<b>T</b> &#43;971 2 312 4418<br>
+<a href=3D"https://secureurl.ankabut.ac.ae/fmlurlsvc/?fewReq=3D:B:JVs5MjYwOSV1P=
+jEtMyVqZz4zMjkzMiVwamRtYnd2cWY&#43;MWA7NWY3YTViMTY6ZWc2OzdgNjBgMzozO2dlMjthN=
+Do2MmFmYGI0ZyV3PjI1MTQ6NDY1NjAlcmpnPjI0MDRRVG5gMzI2NzozLjI0MDRRVG5mMzI2NzozJ=
+XFgc3c&#43;dWptanBrYi1zam9vYmpDaHYtYmAtYmYlYD4wMyVrZ28&#43;Mw=3D=3D&amp;url=3Dhttp=
+%3a%2f%2fwww.ku.ac.ae%2f"><span style=3D"color:#0563C1">ku.ac.ae</span></a><br=
+>
+<img border=3D"0" width=3D"155" height=3D"32" style=3D"width:1.618in;height:.3333in=
+" id=3D"gmail-m_1855119195827601266gmail-m_-2532226298006165461gmail-m_7929480=
+067514464323Picture_x0020_2" src=3D"cid:17b0b98bec65b16b22" alt=3D"cid:social_lo=
+gos_bc6725d5-148a-4909-ae81-760d8b1c3dc4.png"></span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">From:</span></b><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,sans-serif"> Sharan Krishnan &lt;<a href=3D"mailto:sharan.k@fluidcodes=
+.com">sharan.k@fluidcodes.com</a>&gt;
+<br>
+<b>Sent:</b> Monday, August 2, 2021 1:06 PM<br>
+<b>To:</b> Vinisha Pillai &lt;<a href=3D"mailto:vinisha.pillai@ku.ac.ae">vini=
+sha.pillai@ku.ac.ae</a>&gt;<br>
+<b>Subject:</b> environment variable for ansyslmd.ini</span><o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp; <o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><b><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-ser=
+if;color:red;background:#FFEFC6">CAUTION:</span></b><span style=3D"font-size:1=
+0.0pt;font-family:&quot;Arial&quot;,sans-serif;background:#FFEFC6">
+ This email is from an external sender. Be cautious with links and attachme=
+nts.</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp; <o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:a=
+uto"><br>
+<br>
+ANSYSLI_TIMEOUT_FLEXLM<br>
+set this to take a value of 60<br>
+This will delay the&nbsp;timeout&nbsp;by 60s, and should give the interconn=
+ect time to re-establish a connection.<br>
+<br>
+ANSYSLI_TIMEOUT_CONNECT<br>
+Used to specify the amount of time that elapses before the client times out=
+ if it cannot connect to the server. Default is 20 seconds. Minimum&nbsp;tim=
+eout&nbsp;period you can specify is 5 seconds and the maximum is 60 seconds.=
+ If the client determines that a server
+ is not available in less time, it will cancel immediately.<br>
+<br>
+ANSYSLI_TIMEOUT_TCP<br>
+Used to specify the amount of time that elapses before the client times out=
+ if it cannot get a response from the server. This setting applies only when=
+ the&nbsp;license&nbsp;server is running but is responding slowly ( generall=
+y because of network issues or server load).
+ Default is 60 seconds. Minimum&nbsp;timeout&nbsp;period you can specify is=
+ 30 seconds and the maximum is 300 seconds.<br>
+<br>
+FLEXLM_TIMEOUT&nbsp; &nbsp;<br>
+If this is&nbsp; set to a value of 1500000. It can helps prevent a&nbsp;lic=
+ense&nbsp;request from timing out if there is a long delay in the&nbsp;licen=
+se&nbsp;server receiving and responding to a&nbsp;license&nbsp;request<o:p><=
+/o:p></p>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</body>
+</html>
+
+
+--B_3714914018_90877583--
+
+
+--B_3714914018_849174448
+Content-type: image/png; name="image001.png";
+ x-mac-creator="4F50494D";
+ x-mac-type="504E4766"
+Content-ID: <17b0b98bec64cff311>
+Content-disposition: inline;
+	filename="image001.png"
+Content-transfer-encoding: base64
+
+
+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
+AABJRU5ErkJggg==
+--B_3714914018_849174448
+Content-type: image/png; name="image002.png";
+ x-mac-creator="4F50494D";
+ x-mac-type="504E4766"
+Content-ID: <17b0b98bec65b16b22>
+Content-disposition: inline;
+	filename="image002.png"
+Content-transfer-encoding: base64
+
+
+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
+--B_3714914018_849174448--
+
+
+--B_3714914018_150568765--
+
