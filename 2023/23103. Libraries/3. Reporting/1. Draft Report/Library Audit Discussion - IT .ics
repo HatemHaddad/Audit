@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Arabian Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Sofiane Benna";RSVP=TRUE:mailto:sofiane.benna@ku.ac.ae
+ATTENDEE;CN="Hatem Samir Haddad";RSVP=TRUE:mailto:hatem.haddad@ku.ac.ae
+ATTENDEE;CN="Waseem Alwahedy";RSVP=TRUE:mailto:waseem.alwahedy@ku.ac.ae
+ATTENDEE;CN="Walter Brian Hall";RSVP=TRUE:mailto:walter.hall@ku.ac.ae
+ATTENDEE;CN="Abdulla Al Hefeiti (abdulla.alhefeiti@ku.ac.ae)";ROLE=OPT-PART
+	ICIPANT;RSVP=TRUE:invalid:nomail
+CLASS:PUBLIC
+CREATED:20230703T084030Z
+DESCRIPTION:Dear All\n\n \n\nHope this email finds you well.\n\n \n\nPlease
+	 find attached the meeting request for your perusal.\n\n \n\nThankyou and 
+	Regards\n\nAnamika\n\n \n\n \n\n__________________________________________
+	______________________________________ \n\nMicrosoft Teams meeting \n\nJoi
+	n on your computer\, mobile app or room device \n\nClick here to join the 
+	meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmI4NTIyZD
+	gtMzY5OC00MjBlLTlkZjMtNGJmOGJjODNlOWVh%40thread.v2/0?context=%7b%22Tid%22%
+	3a%2208fe1c0a-19f5-4f24-a662-fdd5dd460025%22%2c%22Oid%22%3a%22c2e02d7c-26d
+	d-4c3c-8126-ae46b7ddfc5e%22%7d>  \n\nMeeting ID: 355 084 886 971 \nPasscod
+	e: s2QaoH \n\nDownload Teams <https://www.microsoft.com/en-us/microsoft-te
+	ams/download-app>  | Join on the web <https://www.microsoft.com/microsoft-
+	teams/join-a-meeting> \n\nOr call in (audio only) \n\n+44 20 7660 8200\,\,
+	769697946# <tel:+442076608200\,\,769697946#>    United Kingdom\, London \n
+	\nPhone Conference ID: 769 697 946# \n\nFind a local number <https://diali
+	n.teams.microsoft.com/4e44aa7a-8477-4597-aaa0-49fedd6d8282?id=769697946>  
+	| Reset PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n\
+	nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://
+	teams.microsoft.com/meetingOptions/?organizerId=c2e02d7c-26dd-4c3c-8126-ae
+	46b7ddfc5e&tenantId=08fe1c0a-19f5-4f24-a662-fdd5dd460025&threadId=19_meeti
+	ng_MmI4NTIyZDgtMzY5OC00MjBlLTlkZjMtNGJmOGJjODNlOWVh@thread.v2&messageId=0&
+	language=en-US>  \n\n_____________________________________________________
+	___________________________ \n\n \n\n
+DTEND;TZID="Arabian Standard Time":20230320T140000
+DTSTAMP:20230317T055310Z
+DTSTART;TZID="Arabian Standard Time":20230320T130000
+LAST-MODIFIED:20230703T084030Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Anamika Menon":mailto:anamika.menon@ku.ac.ae
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Library Audit Discussion - IT 
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000090C7ED02B658D901000000000000000
+	0100000008CE7111089FFD54D87AE5A118FAC2CEA
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 
+	2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2
+	 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11
+	.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\
+	n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;
+	}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	colo
+	r:#954F72\;\n	text-decoration:underline\;}\nspan.EmailStyle17\n	{mso-style
+	-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:win
+	dowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-family:"
+	Calibri"\,sans-serif\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margi
+	n:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--
+	></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="
+	1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext
+	="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endi
+	f]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=Wor
+	dSection1><p class=MsoNormal>Dear All<o:p></o:p></p><p class=MsoNormal><o:
+	p>&nbsp\;</o:p></p><p class=MsoNormal>Hope this email finds you well.<o:p>
+	</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Plea
+	se find attached the meeting request for your perusal.<o:p></o:p></p><p cl
+	ass=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Thankyou and Regard
+	s<o:p></o:p></p><p class=MsoNormal>Anamika<o:p></o:p></p><p class=MsoNorma
+	l><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=
+	MsoNormal><span style='color:#5F5F5F'>____________________________________
+	____________________________________________</span> <span style='font-size
+	:12.0pt'><o:p></o:p></span></p><div><div style='margin-top:.25in\;margin-b
+	ottom:15.0pt'><p class=MsoNormal><span style='font-size:18.0pt\;font-famil
+	y:"Segoe UI"\,sans-serif\;color:#252424'>Microsoft Teams meeting</span><sp
+	an style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p><
+	/span></p></div><div style='margin-bottom:15.0pt'><div><p class=MsoNormal>
+	<b><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;colo
+	r:#252424'>Join on your computer\, mobile app or room device</span></b><b>
+	<span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:
+	p></span></b></p></div><p class=MsoNormal><span style='font-family:"Segoe 
+	UI"\,sans-serif\;color:#252424'><a href="https://teams.microsoft.com/l/mee
+	tup-join/19%3ameeting_MmI4NTIyZDgtMzY5OC00MjBlLTlkZjMtNGJmOGJjODNlOWVh%40t
+	hread.v2/0?context=%7b%22Tid%22%3a%2208fe1c0a-19f5-4f24-a662-fdd5dd460025%
+	22%2c%22Oid%22%3a%22c2e02d7c-26dd-4c3c-8126-ae46b7ddfc5e%22%7d" target="_b
+	lank"><span style='font-size:10.5pt\;font-family:"Segoe UI Semibold"\,sans
+	-serif\;color:#6264A7'>Click here to join the meeting</span></a> <o:p></o:
+	p></span></p></div><div style='margin-top:15.0pt\;margin-bottom:15.0pt'><d
+	iv style='margin-bottom:3.0pt'><p class=MsoNormal><span style='font-size:1
+	0.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Meeting ID: </sp
+	an><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'>355 084
+	 886 971</span><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans
+	-serif\;color:#252424'> </span><span style='font-family:"Segoe UI"\,sans-s
+	erif\;color:#252424'><br></span><span style='font-size:10.5pt\;font-family
+	:"Segoe UI"\,sans-serif\;color:#252424'>Passcode: </span><span style='font
+	-family:"Segoe UI"\,sans-serif\;color:#252424'>s2QaoH <o:p></o:p></span></
+	p><div><p class=MsoNormal><span style='font-size:10.5pt\;font-family:"Sego
+	e UI"\,sans-serif\;color:#252424'><a href="https://www.microsoft.com/en-us
+	/microsoft-teams/download-app" target="_blank"><span style='color:#6264A7'
+	>Download Teams</span></a> | <a href="https://www.microsoft.com/microsoft-
+	teams/join-a-meeting" target="_blank"><span style='color:#6264A7'>Join on 
+	the web</span></a><o:p></o:p></span></p></div></div></div><div style='marg
+	in-bottom:3.0pt'><div style='margin-bottom:3.0pt'><p class=MsoNormal><b><s
+	pan style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#25
+	2424'>Or call in (audio only)</span></b><span style='font-family:"Segoe UI
+	"\,sans-serif\;color:#252424'> </span><span style='font-size:12.0pt\;font-
+	family:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p></span></p></div>
+	<div style='margin-bottom:3.0pt'><p class=MsoNormal><span style='font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#252424'><a href="tel:+442076608200\,\,76
+	9697946# "><span style='font-size:10.5pt\;color:#6264A7'>+44 20 7660 8200\
+	,\,769697946#</span></a> </span><span style='font-size:10.5pt\;font-family
+	:"Segoe UI"\,sans-serif\;color:#252424'>&nbsp\; United Kingdom\, London </
+	span><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><o:p>
+	</o:p></span></p></div></div><p class=MsoNormal><span style='font-size:10.
+	5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Phone Conference I
+	D: </span><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'>
+	769 697 946# <o:p></o:p></span></p><div style='margin-bottom:15.0pt'><p cl
+	ass=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:#2524
+	24'><a href="https://dialin.teams.microsoft.com/4e44aa7a-8477-4597-aaa0-49
+	fedd6d8282?id=769697946" target="_blank"><span style='font-size:10.5pt\;co
+	lor:#6264A7'>Find a local number</span></a> | <a href="https://dialin.team
+	s.microsoft.com/usp/pstnconferencing" target="_blank"><span style='font-si
+	ze:10.5pt\;color:#6264A7'>Reset PIN</span></a> <o:p></o:p></span></p></div
+	><div style='margin-top:15.0pt\;margin-bottom:.25in'><p class=MsoNormal><s
+	pan style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="htt
+	ps://aka.ms/JoinTeamsMeeting" target="_blank"><span style='font-size:10.5p
+	t\;color:#6264A7'>Learn More</span></a> | <a href="https://teams.microsoft
+	.com/meetingOptions/?organizerId=c2e02d7c-26dd-4c3c-8126-ae46b7ddfc5e&amp\
+	;tenantId=08fe1c0a-19f5-4f24-a662-fdd5dd460025&amp\;threadId=19_meeting_Mm
+	I4NTIyZDgtMzY5OC00MjBlLTlkZjMtNGJmOGJjODNlOWVh@thread.v2&amp\;messageId=0&
+	amp\;language=en-US" target="_blank"><span style='font-size:10.5pt\;color:
+	#6264A7'>Meeting options</span></a> <o:p></o:p></span></p></div></div><div
+	><p class=MsoNormal><span style='color:#5F5F5F'>__________________________
+	______________________________________________________</span> <span style=
+	'font-family:"Times New Roman"\,serif'><o:p></o:p></span></p></div><p clas
+	s=MsoNormal><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230317T055310Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR

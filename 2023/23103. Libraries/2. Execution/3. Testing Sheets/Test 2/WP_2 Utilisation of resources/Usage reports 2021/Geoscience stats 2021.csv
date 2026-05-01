@@ -1,0 +1,78 @@
+Report_Name,Journal Requests (Excluding OA_Gold),,,,,,,,,,,,,,,,,,,,,
+Report_ID,TR_J1,,,,,,,,,,,,,,,,,,,,,
+Release,5,,,,,,,,,,,,,,,,,,,,,
+Institution_Name,Khalifa University of Science and Technology,,,,,,,,,,,,,,,,,,,,,
+Institution_ID,Silverchair:2323,,,,,,,,,,,,,,,,,,,,,
+Metric_Types,Total_Item_Requests; Unique_Item_Requests,,,,,,,,,,,,,,,,,,,,,
+Report_Filters,Access_Method=Regular; Access_Type=Controlled; Data_Type=Journal,,,,,,,,,,,,,,,,,,,,,
+Report_Attributes,,,,,,,,,,,,,,,,,,,,,,
+Exceptions,,,,,,,,,,,,,,,,,,,,,,
+Reporting_Period,Begin_Date=2021-01-01; End_Date=2021-12-31,,,,,,,,,,,,,,,,,,,,,
+Created,2022-01-07T19:28:36Z,,,,,,,,,,,,,,,,,,,,,
+Created_By,Silverchair,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Title,Publisher,Publisher_ID,Platform,DOI,Proprietary_ID,Print_ISSN,Online_ISSN,URI,Metric_Type,Reporting_Period_Total,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21,Jul-21,Aug-21,Sep-21,Oct-21,Nov-21,Dec-21
+AAPG Bulletin,American Association of Petroleum Geologists,,GeoScienceWorld,,Silverchair:38,0149-1423,1558-9153,,Total_Item_Requests,106,9,13,7,12,11,16,9,4,4,13,4,4
+AAPG Bulletin,American Association of Petroleum Geologists,,GeoScienceWorld,,Silverchair:38,0149-1423,1558-9153,,Unique_Item_Requests,84,7,11,6,11,10,12,6,3,2,10,4,2
+American Mineralogist,Mineralogical Society of America,,GeoScienceWorld,,Silverchair:60,0003-004X,1945-3027,,Total_Item_Requests,8,0,0,0,0,3,0,0,0,0,0,2,3
+American Mineralogist,Mineralogical Society of America,,GeoScienceWorld,,Silverchair:60,0003-004X,1945-3027,,Unique_Item_Requests,5,0,0,0,0,2,0,0,0,0,0,2,1
+Bulletin de la Société Géologique de France,Société Géologique de France,,GeoScienceWorld,,Silverchair:70,0037-9409,1777-5817,,Total_Item_Requests,2,0,1,1,0,0,0,0,0,0,0,0,0
+Bulletin de la Société Géologique de France,Société Géologique de France,,GeoScienceWorld,,Silverchair:70,0037-9409,1777-5817,,Unique_Item_Requests,2,0,1,1,0,0,0,0,0,0,0,0,0
+Bulletin of Canadian Petroleum Geology,Canadian Society of Petroleum Geologists,,GeoScienceWorld,,Silverchair:43,0007-4802,2368-0261,,Total_Item_Requests,7,0,1,0,0,1,5,0,0,0,0,0,0
+Bulletin of Canadian Petroleum Geology,Canadian Society of Petroleum Geologists,,GeoScienceWorld,,Silverchair:43,0007-4802,2368-0261,,Unique_Item_Requests,6,0,1,0,0,1,4,0,0,0,0,0,0
+Bulletin of the Seismological Society of America,Seismological Society of America,,GeoScienceWorld,,Silverchair:66,0037-1106,1943-3573,,Total_Item_Requests,32,2,1,1,7,2,1,2,2,3,10,1,0
+Bulletin of the Seismological Society of America,Seismological Society of America,,GeoScienceWorld,,Silverchair:66,0037-1106,1943-3573,,Unique_Item_Requests,20,2,1,1,2,2,1,2,2,2,4,1,0
+Canadian Journal of Earth Sciences,Canadian Science Publishing,,GeoScienceWorld,,Silverchair:42,0008-4077,1480-3313,,Total_Item_Requests,4,0,1,0,2,0,0,0,0,0,0,1,0
+Canadian Journal of Earth Sciences,Canadian Science Publishing,,GeoScienceWorld,,Silverchair:42,0008-4077,1480-3313,,Unique_Item_Requests,3,0,1,0,1,0,0,0,0,0,0,1,0
+Clay Minerals,Mineralogical Society of Great Britain and Ireland,,GeoScienceWorld,,Silverchair:61,0009-8558,1471-8030,,Total_Item_Requests,1,1,0,0,0,0,0,0,0,0,0,0,0
+Clay Minerals,Mineralogical Society of Great Britain and Ireland,,GeoScienceWorld,,Silverchair:61,0009-8558,1471-8030,,Unique_Item_Requests,1,1,0,0,0,0,0,0,0,0,0,0,0
+Economic Geology,Society of Economic Geologists,,GeoScienceWorld,,Silverchair:32,0361-0128,1554-0774,,Total_Item_Requests,14,0,2,5,2,0,1,0,0,0,0,4,0
+Economic Geology,Society of Economic Geologists,,GeoScienceWorld,,Silverchair:32,0361-0128,1554-0774,,Unique_Item_Requests,10,0,1,4,2,0,1,0,0,0,0,2,0
+Elements,Mineralogical Society of America,,GeoScienceWorld,,Silverchair:59,1811-5209,1811-5217,,Total_Item_Requests,23,0,7,6,6,1,0,0,0,0,0,0,3
+Elements,Mineralogical Society of America,,GeoScienceWorld,,Silverchair:59,1811-5209,1811-5217,,Unique_Item_Requests,12,0,6,1,2,1,0,0,0,0,0,0,2
+Environmental Geosciences,American Association of Petroleum Geologists,,GeoScienceWorld,,Silverchair:37,1075-9565,1526-0984,,Total_Item_Requests,5,0,0,1,1,0,0,0,2,0,0,1,0
+Environmental Geosciences,American Association of Petroleum Geologists,,GeoScienceWorld,,Silverchair:37,1075-9565,1526-0984,,Unique_Item_Requests,4,0,0,1,1,0,0,0,1,0,0,1,0
+Geological Magazine,Cambridge University Press,,GeoScienceWorld,,Silverchair:40,0016-7568,1469-5081,,Total_Item_Requests,16,0,0,2,6,4,0,0,0,0,0,0,4
+Geological Magazine,Cambridge University Press,,GeoScienceWorld,,Silverchair:40,0016-7568,1469-5081,,Unique_Item_Requests,8,0,0,1,2,4,0,0,0,0,0,0,1
+Geology,Geological Society of America,,GeoScienceWorld,,Silverchair:33,0091-7613,1943-2682,,Total_Item_Requests,139,16,6,11,26,16,6,11,7,0,16,7,17
+Geology,Geological Society of America,,GeoScienceWorld,,Silverchair:33,0091-7613,1943-2682,,Unique_Item_Requests,92,14,5,8,11,10,4,8,3,0,15,5,9
+Geophysics,Society of Exploration Geophysicists,,GeoScienceWorld,,Silverchair:72,0016-8033,1942-2156,,Total_Item_Requests,90,36,11,2,4,4,2,2,23,2,3,1,0
+Geophysics,Society of Exploration Geophysicists,,GeoScienceWorld,,Silverchair:72,0016-8033,1942-2156,,Unique_Item_Requests,71,25,10,2,3,4,2,2,17,2,3,1,0
+GSA Bulletin,Geological Society of America,,GeoScienceWorld,,Silverchair:35,0016-7606,1943-2674,,Total_Item_Requests,43,7,2,10,2,1,1,18,0,0,1,0,1
+GSA Bulletin,Geological Society of America,,GeoScienceWorld,,Silverchair:35,0016-7606,1943-2674,,Unique_Item_Requests,26,3,2,8,2,1,1,7,0,0,1,0,1
+Interpretation,Society of Exploration Geophysicists,,GeoScienceWorld,,Silverchair:71,2324-8858,2324-8866,,Total_Item_Requests,3,0,0,0,0,0,2,1,0,0,0,0,0
+Interpretation,Society of Exploration Geophysicists,,GeoScienceWorld,,Silverchair:71,2324-8858,2324-8866,,Unique_Item_Requests,2,0,0,0,0,0,1,1,0,0,0,0,0
+Journal of Environmental and Engineering Geophysics,Environmental and Engineering Geophysical Society,,GeoScienceWorld,,Silverchair:46,1083-1363,1943-2658,,Total_Item_Requests,1,0,0,1,0,0,0,0,0,0,0,0,0
+Journal of Environmental and Engineering Geophysics,Environmental and Engineering Geophysical Society,,GeoScienceWorld,,Silverchair:46,1083-1363,1943-2658,,Unique_Item_Requests,1,0,0,1,0,0,0,0,0,0,0,0,0
+Journal of Foraminiferal Research,Cushman Foundation for Foraminiferal Research,,GeoScienceWorld,,Silverchair:45,0096-1191,,,Total_Item_Requests,2,0,0,2,0,0,0,0,0,0,0,0,0
+Journal of Foraminiferal Research,Cushman Foundation for Foraminiferal Research,,GeoScienceWorld,,Silverchair:45,0096-1191,,,Unique_Item_Requests,2,0,0,2,0,0,0,0,0,0,0,0,0
+Journal of Paleontology,Paleontological Society,,GeoScienceWorld,,Silverchair:64,0022-3360,1937-2337,,Total_Item_Requests,1,0,1,0,0,0,0,0,0,0,0,0,0
+Journal of Paleontology,Paleontological Society,,GeoScienceWorld,,Silverchair:64,0022-3360,1937-2337,,Unique_Item_Requests,1,0,1,0,0,0,0,0,0,0,0,0,0
+Journal of Sedimentary Research,SEPM Society for Sedimentary Geology,,GeoScienceWorld,,Silverchair:67,1527-1404,1938-3681,,Total_Item_Requests,99,2,4,1,13,12,16,13,4,4,21,7,2
+Journal of Sedimentary Research,SEPM Society for Sedimentary Geology,,GeoScienceWorld,,Silverchair:67,1527-1404,1938-3681,,Unique_Item_Requests,75,2,3,1,9,9,15,13,4,3,10,5,1
+Journal of the Geological Society,Geological Society of London,,GeoScienceWorld,,Silverchair:49,0016-7649,2041-479X,,Total_Item_Requests,57,0,8,16,6,16,9,1,0,0,1,0,0
+Journal of the Geological Society,Geological Society of London,,GeoScienceWorld,,Silverchair:49,0016-7649,2041-479X,,Unique_Item_Requests,42,0,6,11,4,14,5,1,0,0,1,0,0
+Micropaleontology,Micropaleontology Press,,GeoScienceWorld,,Silverchair:56,1937-2795,0026-2803,,Total_Item_Requests,4,0,1,3,0,0,0,0,0,0,0,0,0
+Micropaleontology,Micropaleontology Press,,GeoScienceWorld,,Silverchair:56,1937-2795,0026-2803,,Unique_Item_Requests,3,0,1,2,0,0,0,0,0,0,0,0,0
+Mineralogical Magazine,Mineralogical Society of Great Britain and Ireland,,GeoScienceWorld,,Silverchair:62,0026-461X,1471-8022,,Total_Item_Requests,1,0,0,0,0,0,0,1,0,0,0,0,0
+Mineralogical Magazine,Mineralogical Society of Great Britain and Ireland,,GeoScienceWorld,,Silverchair:62,0026-461X,1471-8022,,Unique_Item_Requests,1,0,0,0,0,0,0,1,0,0,0,0,0
+PALAIOS,SEPM Society for Sedimentary Geology,,GeoScienceWorld,,Silverchair:68,0883-1351,1938-5323,,Total_Item_Requests,31,0,0,1,7,1,2,0,0,0,0,2,18
+PALAIOS,SEPM Society for Sedimentary Geology,,GeoScienceWorld,,Silverchair:68,0883-1351,1938-5323,,Unique_Item_Requests,13,0,0,1,4,1,2,0,0,0,0,1,4
+Paleobiology,Paleontological Society,,GeoScienceWorld,,Silverchair:63,0094-8373,1938-5331,,Total_Item_Requests,3,0,0,0,0,0,2,0,0,0,1,0,0
+Paleobiology,Paleontological Society,,GeoScienceWorld,,Silverchair:63,0094-8373,1938-5331,,Unique_Item_Requests,3,0,0,0,0,0,2,0,0,0,1,0,0
+Petroleum Geoscience,Geological Society of London,,GeoScienceWorld,,Silverchair:52,1354-0793,2041-496X,,Total_Item_Requests,1,0,0,1,0,0,0,0,0,0,0,0,0
+Petroleum Geoscience,Geological Society of London,,GeoScienceWorld,,Silverchair:52,1354-0793,2041-496X,,Unique_Item_Requests,1,0,0,1,0,0,0,0,0,0,0,0,0
+Reviews in Mineralogy and Geochemistry,Mineralogical Society of America,,GeoScienceWorld,,Silverchair:58,1529-6466,,,Total_Item_Requests,29,0,0,0,4,0,1,3,13,0,0,4,4
+Reviews in Mineralogy and Geochemistry,Mineralogical Society of America,,GeoScienceWorld,,Silverchair:58,1529-6466,,,Unique_Item_Requests,12,0,0,0,2,0,1,2,5,0,0,1,1
+Scottish Journal of Geology,Geological Society of London,,GeoScienceWorld,,Silverchair:51,0036-9276,2041-4951,,Total_Item_Requests,1,0,0,0,0,0,0,0,0,0,1,0,0
+Scottish Journal of Geology,Geological Society of London,,GeoScienceWorld,,Silverchair:51,0036-9276,2041-4951,,Unique_Item_Requests,1,0,0,0,0,0,0,0,0,0,1,0,0
+Seismological Research Letters,Seismological Society of America,,GeoScienceWorld,,Silverchair:65,0895-0695,1938-2057,,Total_Item_Requests,3,1,0,2,0,0,0,0,0,0,0,0,0
+Seismological Research Letters,Seismological Society of America,,GeoScienceWorld,,Silverchair:65,0895-0695,1938-2057,,Unique_Item_Requests,2,1,0,1,0,0,0,0,0,0,0,0,0
+South African Journal of Geology,Geological Society of South Africa,,GeoScienceWorld,,Silverchair:55,1012-0750,1996-8590,,Total_Item_Requests,1,0,0,0,0,0,1,0,0,0,0,0,0
+South African Journal of Geology,Geological Society of South Africa,,GeoScienceWorld,,Silverchair:55,1012-0750,1996-8590,,Unique_Item_Requests,1,0,0,0,0,0,1,0,0,0,0,0,0
+The Canadian Mineralogist,Mineralogical Association of Canada,,GeoScienceWorld,,Silverchair:57,0008-4476,1499-1276,,Total_Item_Requests,2,0,0,0,0,0,0,0,2,0,0,0,0
+The Canadian Mineralogist,Mineralogical Association of Canada,,GeoScienceWorld,,Silverchair:57,0008-4476,1499-1276,,Unique_Item_Requests,1,0,0,0,0,0,0,0,1,0,0,0,0
+The Leading Edge,Society of Exploration Geophysicists,,GeoScienceWorld,,Silverchair:73,1070-485X,1938-3789,,Total_Item_Requests,13,6,0,0,0,1,3,1,1,1,0,0,0
+The Leading Edge,Society of Exploration Geophysicists,,GeoScienceWorld,,Silverchair:73,1070-485X,1938-3789,,Unique_Item_Requests,8,2,0,0,0,1,2,1,1,1,0,0,0
+Vadose Zone Journal,Soil Science Society of America,,GeoScienceWorld,,Silverchair:74,1539-1663,,,Total_Item_Requests,2,0,0,0,0,0,0,1,1,0,0,0,0
+Vadose Zone Journal,Soil Science Society of America,,GeoScienceWorld,,Silverchair:74,1539-1663,,,Unique_Item_Requests,2,0,0,0,0,0,0,1,1,0,0,0,0

@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Arabian Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Abdulla Al Hefeiti";RSVP=TRUE:mailto:abdulla.alhefeiti@ku.ac.a
+	e
+ATTENDEE;CN="Waseem Alwahedy";RSVP=TRUE:mailto:waseem.alwahedy@ku.ac.ae
+ATTENDEE;CN="Hatem Samir Haddad";RSVP=TRUE:mailto:hatem.haddad@ku.ac.ae
+ATTENDEE;CN="Walter Brian Hall";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:walte
+	r.hall@ku.ac.ae
+CLASS:PUBLIC
+CREATED:20230703T100350Z
+DESCRIPTION:Dear All\n\n \n\nHope this email finds you well.\n\n \n\nPlease
+	 find attached the meeting invite.\n\n \n\nRegards\n\nAnamika\n\n
+DTEND;TZID="Arabian Standard Time":20230316T121500
+DTSTAMP:20230315T055047Z
+DTSTART;TZID="Arabian Standard Time":20230316T111500
+LAST-MODIFIED:20230703T100350Z
+LOCATION:Library-  MAIN Campus (Dr. Abdulla's office)
+ORGANIZER;CN="Anamika Menon":mailto:anamika.menon@ku.ac.ae
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Discussion 
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E078BEF72257D901000000000000000
+	01000000072D054AC013CF743917A1D83F61AB4EC
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.Mso
+	Normal\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	fo
+	nt-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-styl
+	e-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:visite
+	d\, span.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F72\;
+	\n	text-decoration:underline\;}\nspan.EmailStyle17\n	{mso-style-type:perso
+	nal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\
+	n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-family:"Calibri"\,s
+	ans-serif\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0
+	in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!
+	--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n<
+	/xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<
+	o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head
+	><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><
+	p class=MsoNormal>Dear All<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</
+	o:p></p><p class=MsoNormal>Hope this email finds you well.<o:p></o:p></p><
+	p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Please find att
+	ached the meeting invite.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o
+	:p></p><p class=MsoNormal>Regards<o:p></o:p></p><p class=MsoNormal>Anamika
+	<o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230315T055047Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
