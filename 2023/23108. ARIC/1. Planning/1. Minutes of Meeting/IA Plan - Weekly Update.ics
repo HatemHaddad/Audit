@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Arabian Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Abdulaziz Alkhoori";RSVP=TRUE:mailto:abdulaziz.alkhoori@ku.ac.
+	ae
+ATTENDEE;CN="Waseem Alwahedy";RSVP=TRUE:mailto:waseem.alwahedy@ku.ac.ae
+ATTENDEE;CN="Anamika Menon";RSVP=TRUE:mailto:anamika.menon@ku.ac.ae
+ATTENDEE;CN="Hatem Samir Haddad";RSVP=TRUE:mailto:hatem.haddad@ku.ac.ae
+ATTENDEE;CN="Ahsan Sarwar Niazi";RSVP=TRUE:mailto:ahsan.niazi@ku.ac.ae
+CLASS:PUBLIC
+CREATED:20230703T095622Z
+DESCRIPTION:Dear All\,\n\n \n\nWe scheduled a weekly operational update mee
+	ting for the Audit Plan of 2023.\n\n \n\nThanks\,\n\nNaema Al Marzooqi\nSe
+	nior Auditor\nAudit\n\n\n	\nP O Box 127788\, Abu Dhabi\, UAE \nT +971 2 31
+	2 4077 \nnaema.almarzooqi@ku.ac.ae\n	\nku.ac.ae <https://www.ku.ac.ae/> 	\
+	n\n\n <https://www.facebook.com/khalifauniversity/>  <https://twitter.com/
+	KhalifaUni>  <https://www.instagram.com/khalifauniversity>  <https://www.y
+	outube.com/user/khalifauniversity>  <https://www.linkedin.com/school/khali
+	fauniversity/>  <https://www.tiktok.com/@khalifauniversity?_t=8Y048LBBqpV&
+	_r=1>  <https://www.facebook.com/khalifauniversity/> 	\n	\n\n
+DTEND;TZID="Arabian Standard Time":20230330T150000
+DTSTAMP:20230116T083246Z
+DTSTART;TZID="Arabian Standard Time":20230330T140000
+LAST-MODIFIED:20230703T095622Z
+LOCATION:IA Office
+ORGANIZER;CN="Naema Al Marzooqi":mailto:naema.almarzooqi@ku.ac.ae
+PRIORITY:5
+RECURRENCE-ID;TZID="Arabian Standard Time":20230330T140000
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:IA Plan - Weekly Update
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000030FE49A6A529D901000000000000000
+	01000000030C44BE9BE566E4C8538ADF1DCE63176
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta name="Gener
+	ator" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font D
+	efinitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5
+	 3 5 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2
+	 2 2 4 3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div
+	.MsoNormal\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\
+	n	font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-
+	style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:vi
+	sited\, span.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F
+	72\;\n	text-decoration:underline\;}\np.msonormal0\, li.msonormal0\, div.ms
+	onormal0\n	{mso-style-name:msonormal\;\n	mso-margin-top-alt:auto\;\n	margi
+	n-right:0in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	font-si
+	ze:12.0pt\;\n	font-family:"Times New Roman"\,serif\;}\nspan.EmailStyle18\n
+		{mso-style-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\
+	n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	fo
+	nt-size:10.0pt\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0i
+	n 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></sty
+	le><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" 
+	/>\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit
+	">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--><
+	/head><body lang="EN-US" link="#0563C1" vlink="#954F72"><div class="WordSe
+	ction1"><p class="MsoNormal">Dear All\,<o:p></o:p></p><p class="MsoNormal"
+	><o:p>&nbsp\;</o:p></p><p class="MsoNormal">We scheduled a weekly operatio
+	nal update meeting for the Audit Plan of 2023.<o:p></o:p></p><p class="Mso
+	Normal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">Thanks\,<o:p></o:p></p>
+	</div>\n<table>\n  <tbody>\n  <tr>\n    <td>\n      <meta id="c1-id-5" nam
+	e="GENERATOR" content="MSHTML 11.00.10570.1001">\n      <p style="FONT-SIZ
+	E: 10pt\; FONT-FAMILY: Arial"></p>\n      <p style="FONT-SIZE: 10pt\; FONT
+	-FAMILY: Arial"><font face="Calibri"><strong><span style="FONT-SIZE: 11pt"
+	><span style="FONT-SIZE: 12pt"><font color="#1d49a7">Naema Al Marzooqi</fo
+	nt></span></span></strong><br style="FONT-SIZE: 12pt\; FONT-FAMILY: Calibr
+	i"><font color="#363636"><span style="FONT-SIZE: 12pt">Senior Auditor</spa
+	n><br style="FONT-SIZE: 12pt\; FONT-FAMILY: Calibri"></font><span style="F
+	ONT-SIZE: 12pt"><font color="#727272"><font color="#363636">Audit</font></
+	font></span><br style="FONT-SIZE: 12pt\; FONT-FAMILY: Calibri"></font></p>
+	</td></tr>\n  <tr>\n    <td><img style="FONT-SIZE: 11pt" border="0" src="c
+	id:ku_logo_a9b09f76-c21f-489f-954f-e2707d5e8095.png"></td></tr>\n  <tr>\n 
+	   <td><font color="#363636"><span style="FONT-FAMILY: Calibri"><span styl
+	e="FONT-SIZE: 12pt">P O Box</span> <span style="FONT-SIZE: 12pt">127788\, 
+	</span><span style="FONT-SIZE: 12pt">Abu Dhabi\,</span>&nbsp\;<span style=
+	"FONT-SIZE: 12pt">UAE</span> <span style="FONT-SIZE: 12pt"></span></span><
+	br style="FONT-SIZE: 11pt"><span style="FONT-SIZE: 12pt"><span style="FONT
+	-FAMILY: Calibri">T \n      &#43\;971 2 312 4077</span> </span><br style="
+	FONT-SIZE: 11pt"><span style="FONT-FAMILY: Calibri"><span style="FONT-SIZE
+	: 12pt">naema.almarzooqi@ku.ac.ae</span></span></font><br style="FONT-SIZE
+	: 11pt"></td></tr>\n  <tr>\n    <td><span style="FONT-FAMILY: Calibri"><sp
+	an style="FONT-SIZE: 12pt"><a title="" href="https://www.ku.ac.ae/">ku.ac.
+	ae</a></span></span></td></tr><br>\n  <p style="FONT-SIZE: 10pt\; FONT-FAM
+	ILY: Arial"></p>\n  <tbody>\n  <tr>\n    <td><a class="socialLink" href="h
+	ttps://www.facebook.com/khalifauniversity/"><img class="socialLink" border
+	="0" src="cid:FaceBook_ca9b226b-ec6e-48f3-9e16-5778ac66cf35.png"></a><a cl
+	ass="socialLink" href="https://twitter.com/KhalifaUni"><img class="socialL
+	ink" border="0" src="cid:Twitter_38c4d359-bd09-4c76-ac99-02ba30e664ba.png"
+	></a><a class="socialLink" href="https://www.instagram.com/khalifauniversi
+	ty"><img class="socialLink" border="0" src="cid:Instagram_313ecd0a-9123-47
+	55-b05e-de0d86cb406e.png"></a><a class="socialLink" href="https://www.yout
+	ube.com/user/khalifauniversity"><img class="socialLink" border="0" src="ci
+	d:Youtube_a41bef02-f4fe-4aa0-a139-73d479cffa0e.png"></a><a class="socialLi
+	nk" href="https://www.linkedin.com/school/khalifauniversity/"><img class="
+	socialLink" border="0" src="cid:LinkedIn_70f4e194-08a1-4ea7-95a5-c55e5b5a8
+	761.png"></a><a class="socialLink" href="https://www.tiktok.com/@khalifaun
+	iversity?_t=8Y048LBBqpV&amp\;_r=1"><img class="socialLink" border="0" src=
+	"cid:TikTok_7331da94-76c6-4b74-90ee-8c5e5e9b3e9c.png"></a><a class="social
+	Link" href="https://www.facebook.com/khalifauniversity/"></a></td></tr>\n 
+	 <tr>\n    <td style="HEIGHT: 25px" valign="top"><img style="HEIGHT: 70px\
+	; WIDTH: 300px" border="0" src="cid:banner01_6fdf79f9-9e97-4948-8051-af339
+	78a9f1e.jpg" width="300" height="70"></td></tr></tbody></tbody></table>\n<
+	p style="FONT-SIZE: 10pt\; FONT-FAMILY: Arial"></p>\n<p style="FONT-SIZE: 
+	10pt\; FONT-FAMILY: Arial"></p>\n<p style="FONT-SIZE: 10pt\; FONT-FAMILY: 
+	Arial"></p>\n<p style="FONT-SIZE: 10pt\; FONT-FAMILY: Arial"></p>\n<p styl
+	e="FONT-SIZE: 10pt\; FONT-FAMILY: Arial"></p>\n<p style="FONT-SIZE: 10pt\;
+	 FONT-FAMILY: Arial"></p>\n<p style="FONT-SIZE: 10pt\; FONT-FAMILY: Arial"
+	></p></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+END:VCALENDAR
