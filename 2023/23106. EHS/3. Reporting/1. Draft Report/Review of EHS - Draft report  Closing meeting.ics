@@ -1,0 +1,395 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Arabian Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Mohamed Abdulla Jasim AlHosani";RSVP=TRUE:mailto:mohamed.alhos
+	ani@ku.ac.ae
+ATTENDEE;CN="Abdulaziz Alkhoori";RSVP=TRUE:mailto:abdulaziz.alkhoori@ku.ac.
+	ae
+ATTENDEE;CN="Fatima Mohsen Abdulla AlFaqeeh";RSVP=TRUE:mailto:fatima.alfaqe
+	eh@ku.ac.ae
+ATTENDEE;CN="Hatem Samir Haddad";RSVP=TRUE:mailto:hatem.haddad@ku.ac.ae
+ATTENDEE;CN="Waseem Alwahedy";RSVP=TRUE:mailto:waseem.alwahedy@ku.ac.ae
+ATTENDEE;CN=aeldeeb@Kpmg.Com;RSVP=TRUE:mailto:aeldeeb@Kpmg.Com
+ATTENDEE;CN="Navaz Mytheen Kannu";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:nav
+	az.kannu@ku.ac.ae
+CLASS:PUBLIC
+CREATED:20230710T065357Z
+DESCRIPTION:Dear All\n\n \n\nPlease find attached the meeting invite for yo
+	ur kind perusal.\n\n \n\nThankyou and Regards\n\nAnamika\n\n______________
+	__________________________________________________________________ \n\nMic
+	rosoft Teams meeting \n\nJoin on your computer\, mobile app or room device
+	 \n\nClick here to join the meeting <https://teams.microsoft.com/l/meetup-
+	join/19%3ameeting_MzFkZDhkZGEtZGI0Yy00MmMxLTk5MmUtNWQ2NzQyYjQ2YjBk%40threa
+	d.v2/0?context=%7b%22Tid%22%3a%2208fe1c0a-19f5-4f24-a662-fdd5dd460025%22%2
+	c%22Oid%22%3a%22c2e02d7c-26dd-4c3c-8126-ae46b7ddfc5e%22%7d>  \n\nMeeting I
+	D: 328 853 153 818 \nPasscode: gKFHb6 \n\nDownload Teams <https://www.micr
+	osoft.com/en-us/microsoft-teams/download-app>  | Join on the web <https://
+	www.microsoft.com/microsoft-teams/join-a-meeting> \n\nOr call in (audio on
+	ly) \n\n+44 20 7660 8200\,\,805503247# <tel:+442076608200\,\,805503247#>  
+	  United Kingdom\, London \n\nPhone Conference ID: 805 503 247# \n\nFind a
+	 local number <https://dialin.teams.microsoft.com/4e44aa7a-8477-4597-aaa0-
+	49fedd6d8282?id=805503247>  | Reset PIN <https://dialin.teams.microsoft.co
+	m/usp/pstnconferencing>  \n\nLearn More <https://aka.ms/JoinTeamsMeeting> 
+	 | Meeting options <https://teams.microsoft.com/meetingOptions/?organizerI
+	d=c2e02d7c-26dd-4c3c-8126-ae46b7ddfc5e&tenantId=08fe1c0a-19f5-4f24-a662-fd
+	d5dd460025&threadId=19_meeting_MzFkZDhkZGEtZGI0Yy00MmMxLTk5MmUtNWQ2NzQyYjQ
+	2YjBk@thread.v2&messageId=0&language=en-US>  \n\n_________________________
+	_______________________________________________________ \n\n \n\n \n\n____
+	_________________________________________\nFrom: Mohamed Abdulla Jasim AlH
+	osani <mohamed.alhosani@ku.ac.ae <mailto:mohamed.alhosani@ku.ac.ae> > \nSe
+	nt: Friday\, June 23\, 2023 8:58 AM\nTo: Abdulaziz Alkhoori <abdulaziz.alk
+	hoori@ku.ac.ae <mailto:abdulaziz.alkhoori@ku.ac.ae> >\nCc: Anamika Menon <
+	anamika.menon@ku.ac.ae <mailto:anamika.menon@ku.ac.ae> >\; Waseem Alwahedy
+	 <waseem.alwahedy@ku.ac.ae <mailto:waseem.alwahedy@ku.ac.ae> >\; aeldeeb@K
+	pmg.Com <mailto:aeldeeb@Kpmg.Com> \nSubject: RE: Review of EHS - Draft rep
+	ort & Closing meeting\n\n \n\nGood morning Dr Abdulaziz \n\nLooking forwar
+	d to see you on the 10th of July \n\nMy best time will be from 10 to 11 am
+	 \n\nIf OK\, please arrange to schedule a meeting in order to discuss the 
+	report outcome \n\n \n\nBest Regards\, \n\n \n\nMohamed Abdulla Jasim AlHo
+	sani\nDirector\, Administration and Facilities\nAdministration and Facilit
+	ies\n\n\n\nP O Box 127788\, Abu Dhabi\, UAE \nKhalifa University of Scienc
+	e and Technology\n\nT +971 2 312 3322 \nmohamed.alhosani@ku.ac.ae <mailto:
+	mohamed.alhosani@ku.ac.ae> \n\nku.ac.ae <https://www.ku.ac.ae/> \n\n <http
+	s://www.facebook.com/khalifauniversity/>  <https://twitter.com/KhalifaUni>
+	  <https://www.instagram.com/khalifauniversity>  <https://www.youtube.com/
+	user/khalifauniversity>  <https://www.linkedin.com/school/khalifauniversit
+	y/>  <https://www.tiktok.com/@khalifauniversity?_t=8Y048LBBqpV&_r=1> \n\n\
+	n\nFrom: Abdulaziz Alkhoori <abdulaziz.alkhoori@ku.ac.ae <mailto:abdulaziz
+	.alkhoori@ku.ac.ae> > \nSent: Thursday\, June 22\, 2023 1:12 PM\nTo: Moham
+	ed Abdulla Jasim AlHosani <mohamed.alhosani@ku.ac.ae <mailto:mohamed.alhos
+	ani@ku.ac.ae> >\nCc: Anamika Menon <anamika.menon@ku.ac.ae <mailto:anamika
+	.menon@ku.ac.ae> >\; Waseem Alwahedy <waseem.alwahedy@ku.ac.ae <mailto:was
+	eem.alwahedy@ku.ac.ae> >\; aeldeeb@Kpmg.Com <mailto:aeldeeb@Kpmg.Com> \nSu
+	bject: Review of EHS - Draft report & Closing meeting\n\n \n\nDear Mohamed
+	\,\n\n \n\nHope all is well with you.\n\n \n\nI would like to thank you an
+	d your team for your assistance and cooperation with Internal Audit during
+	 our review of EHS. Attached is the draft report for your thoughtful revie
+	w\; and as per our standard audit protocol we would like to schedule a “
+	Closing Meeting” with you to discuss the report's content in more depth\
+	, confirm our findings\, receive any feedback you may have\, and discuss p
+	otential remedial actions or improvements.\n\n \n\nGiven that next week is
+	 mostly Eid Holidays\, let’s aim to have the meeting on the week startin
+	g Monday\, July 10th. This timeframe will provide your team with ample tim
+	e to review the draft report and prepare for the meeting. To coordinate th
+	e logistics\, please feel free to reach out to Anamika from our team.\n\n 
+	\n\nThanks again & Eid Mubarak\,\n\n \n\nAbdulaziz Alkhoori\nVice Presiden
+	t\, Audit\nAudit\n\n\n\nP O Box 127788\, Abu Dhabi\, UAE \nKhalifa Univers
+	ity of Science and Technology\n\nT \nabdulaziz.alkhoori@ku.ac.ae <mailto:a
+	bdulaziz.alkhoori@ku.ac.ae> \n\nku.ac.ae <https://www.ku.ac.ae/> \n\n <htt
+	ps://www.facebook.com/khalifauniversity/>  <https://twitter.com/KhalifaUni
+	>  <https://www.instagram.com/khalifauniversity>  <https://www.youtube.com
+	/user/khalifauniversity>  <https://www.linkedin.com/school/khalifauniversi
+	ty/>  <https://www.tiktok.com/@khalifauniversity?_t=8Y048LBBqpV&_r=1> \n\n
+	\n\n \n\n
+DTEND;TZID="Arabian Standard Time":20230710T110000
+DTSTAMP:20230623T051720Z
+DTSTART;TZID="Arabian Standard Time":20230710T100000
+LAST-MODIFIED:20230710T065357Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Anamika Menon":mailto:anamika.menon@ku.ac.ae
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Review of EHS - Draft report & Closing meeting
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000090DCB9DEB0A5D901000000000000000
+	01000000051DCC45C021F2543A66BFE69AF948410
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	
+	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{f
+	ont-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2 3\;}\n@font-face\n	{
+	font-family:"Segoe UI Semibold"\;\n	panose-1:2 11 7 2 4 2 4 2 2 3\;}\n/* S
+	tyle Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:
+	0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-family:"Calibr
+	i"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n
+		color:#0563C1\;\n	text-decoration:underline\;}\na:visited\, span.MsoHyper
+	linkFollowed\n	{mso-style-priority:99\;\n	color:#954F72\;\n	text-decoratio
+	n:underline\;}\np\n	{mso-style-priority:99\;\n	mso-margin-top-alt:auto\;\n
+		margin-right:0in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	f
+	ont-size:12.0pt\;\n	font-family:"Times New Roman"\,serif\;}\np.msonormal0\
+	, li.msonormal0\, div.msonormal0\n	{mso-style-name:msonormal\;\n	mso-style
+	-priority:99\;\n	mso-margin-top-alt:auto\;\n	margin-right:0in\;\n	mso-marg
+	in-bottom-alt:auto\;\n	margin-left:0in\;\n	font-size:11.0pt\;\n	font-famil
+	y:"Calibri"\,sans-serif\;}\nspan.EmailStyle19\n	{mso-style-type:personal\;
+	\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\nspan.EmailSt
+	yle20\n	{mso-style-type:personal\;\n	font-family:"Calibri"\,sans-serif\;\n
+		color:#1F497D\;}\nspan.EmailStyle21\n	{mso-style-type:personal-reply\;\n	
+	font-family:"Calibri"\,sans-serif\;\n	color:#1F497D\;}\n.MsoChpDefault\n	{
+	mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{
+	size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\
+	n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefa
+	ults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]>
+	<xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</
+	o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vli
+	nk="#954F72"><div class=WordSection1><p class=MsoNormal><span style='color
+	:#1F497D'>Dear All<o:p></o:p></span></p><p class=MsoNormal><span style='co
+	lor:#1F497D'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span style='
+	color:#1F497D'>Please find attached the meeting invite for your kind perus
+	al.<o:p></o:p></span></p><p class=MsoNormal><span style='color:#1F497D'><o
+	:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span style='color:#1F497D'>
+	Thankyou and Regards<o:p></o:p></span></p><p class=MsoNormal><span style='
+	color:#1F497D'>Anamika<o:p></o:p></span></p><div><div><p class=MsoNormal><
+	span style='color:#5F5F5F'>_______________________________________________
+	_________________________________</span> <span style='font-size:12.0pt'><o
+	:p></o:p></span></p></div><div><div style='margin-top:.25in\;margin-bottom
+	:15.0pt'><p class=MsoNormal><span style='font-size:18.0pt\;font-family:"Se
+	goe UI"\,sans-serif\;color:#252424'>Microsoft Teams meeting</span><span st
+	yle='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></span
+	></p></div><div style='margin-bottom:15.0pt'><div><p class=MsoNormal><b><s
+	pan style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#25
+	2424'>Join on your computer\, mobile app or room device</span></b><b><span
+	 style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></s
+	pan></b></p></div><p class=MsoNormal><span style='font-family:"Segoe UI"\,
+	sans-serif\;color:#252424'><a href="https://teams.microsoft.com/l/meetup-j
+	oin/19%3ameeting_MzFkZDhkZGEtZGI0Yy00MmMxLTk5MmUtNWQ2NzQyYjQ2YjBk%40thread
+	.v2/0?context=%7b%22Tid%22%3a%2208fe1c0a-19f5-4f24-a662-fdd5dd460025%22%2c
+	%22Oid%22%3a%22c2e02d7c-26dd-4c3c-8126-ae46b7ddfc5e%22%7d" target="_blank"
+	><span style='font-size:10.5pt\;font-family:"Segoe UI Semibold"\,sans-seri
+	f\;color:#6264A7'>Click here to join the meeting</span></a> <o:p></o:p></s
+	pan></p></div><div style='margin-top:15.0pt\;margin-bottom:15.0pt'><div st
+	yle='margin-bottom:3.0pt'><p class=MsoNormal><span style='font-size:10.5pt
+	\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Meeting ID: </span><s
+	pan style='font-family:"Segoe UI"\,sans-serif\;color:#252424'>328 853 153 
+	818</span><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-seri
+	f\;color:#252424'> </span><span style='font-family:"Segoe UI"\,sans-serif\
+	;color:#252424'><br></span><span style='font-size:10.5pt\;font-family:"Seg
+	oe UI"\,sans-serif\;color:#252424'>Passcode: </span><span style='font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#252424'>gKFHb6 <o:p></o:p></span></p><di
+	v><p class=MsoNormal><span style='font-size:10.5pt\;font-family:"Segoe UI"
+	\,sans-serif\;color:#252424'><a href="https://www.microsoft.com/en-us/micr
+	osoft-teams/download-app" target="_blank"><span style='color:#6264A7'>Down
+	load Teams</span></a> | <a href="https://www.microsoft.com/microsoft-teams
+	/join-a-meeting" target="_blank"><span style='color:#6264A7'>Join on the w
+	eb</span></a><o:p></o:p></span></p></div></div></div><div style='margin-bo
+	ttom:3.0pt'><div style='margin-bottom:3.0pt'><p class=MsoNormal><b><span s
+	tyle='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'
+	>Or call in (audio only)</span></b><span style='font-family:"Segoe UI"\,sa
+	ns-serif\;color:#252424'> </span><span style='font-size:12.0pt\;font-famil
+	y:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p></span></p></div><div 
+	style='margin-bottom:3.0pt'><p class=MsoNormal><span style='font-family:"S
+	egoe UI"\,sans-serif\;color:#252424'><a href="tel:+442076608200\,\,8055032
+	47# "><span style='font-size:10.5pt\;color:#6264A7'>+44 20 7660 8200\,\,80
+	5503247#</span></a> </span><span style='font-size:10.5pt\;font-family:"Seg
+	oe UI"\,sans-serif\;color:#252424'>&nbsp\; United Kingdom\, London </span>
+	<span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p
+	></span></p></div></div><p class=MsoNormal><span style='font-size:10.5pt\;
+	font-family:"Segoe UI"\,sans-serif\;color:#252424'>Phone Conference ID: </
+	span><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'>805 5
+	03 247# <o:p></o:p></span></p><div style='margin-bottom:15.0pt'><p class=M
+	soNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><
+	a href="https://dialin.teams.microsoft.com/4e44aa7a-8477-4597-aaa0-49fedd6
+	d8282?id=805503247" target="_blank"><span style='font-size:10.5pt\;color:#
+	6264A7'>Find a local number</span></a> | <a href="https://dialin.teams.mic
+	rosoft.com/usp/pstnconferencing" target="_blank"><span style='font-size:10
+	.5pt\;color:#6264A7'>Reset PIN</span></a> <o:p></o:p></span></p></div><div
+	 style='margin-top:15.0pt\;margin-bottom:.25in'><p class=MsoNormal><span s
+	tyle='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="https://
+	aka.ms/JoinTeamsMeeting" target="_blank"><span style='font-size:10.5pt\;co
+	lor:#6264A7'>Learn More</span></a> | <a href="https://teams.microsoft.com/
+	meetingOptions/?organizerId=c2e02d7c-26dd-4c3c-8126-ae46b7ddfc5e&amp\;tena
+	ntId=08fe1c0a-19f5-4f24-a662-fdd5dd460025&amp\;threadId=19_meeting_MzFkZDh
+	kZGEtZGI0Yy00MmMxLTk5MmUtNWQ2NzQyYjQ2YjBk@thread.v2&amp\;messageId=0&amp\;
+	language=en-US" target="_blank"><span style='font-size:10.5pt\;color:#6264
+	A7'>Meeting options</span></a> <o:p></o:p></span></p></div></div></div><di
+	v><p class=MsoNormal><span style='color:#5F5F5F'>_________________________
+	_______________________________________________________</span> <span style
+	='font-family:"Times New Roman"\,serif'><o:p></o:p></span></p></div><p cla
+	ss=MsoNormal><span style='color:#1F497D'><o:p>&nbsp\;</o:p></span></p><p c
+	lass=MsoNormal><span style='color:#1F497D'><o:p>&nbsp\;</o:p></span></p><d
+	iv><p class=MsoNormal>_____________________________________________<br><b>
+	From:</b> Mohamed Abdulla Jasim AlHosani &lt\;<a href="mailto:mohamed.alho
+	sani@ku.ac.ae">mohamed.alhosani@ku.ac.ae</a>&gt\; <br><b>Sent:</b> Friday\
+	, June 23\, 2023 8:58 AM<br><b>To:</b> Abdulaziz Alkhoori &lt\;<a href="ma
+	ilto:abdulaziz.alkhoori@ku.ac.ae">abdulaziz.alkhoori@ku.ac.ae</a>&gt\;<br>
+	<b>Cc:</b> Anamika Menon &lt\;<a href="mailto:anamika.menon@ku.ac.ae">anam
+	ika.menon@ku.ac.ae</a>&gt\;\; Waseem Alwahedy &lt\;<a href="mailto:waseem.
+	alwahedy@ku.ac.ae">waseem.alwahedy@ku.ac.ae</a>&gt\;\; <a href="mailto:ael
+	deeb@Kpmg.Com">aeldeeb@Kpmg.Com</a><br><b>Subject:</b> RE: Review of EHS -
+	 Draft report &amp\; Closing meeting<o:p></o:p></p></div><p class=MsoNorma
+	l><o:p>&nbsp\;</o:p></p><p class=MsoNormal><span style='color:#1F497D'>Goo
+	d morning Dr Abdulaziz <o:p></o:p></span></p><p class=MsoNormal><span styl
+	e='color:#1F497D'>Looking forward to see you on the 10<sup>th</sup> of Jul
+	y <o:p></o:p></span></p><p class=MsoNormal><span style='color:#1F497D'>My 
+	best time will be from 10 to 11 am <o:p></o:p></span></p><p class=MsoNorma
+	l><span style='color:#1F497D'>If OK\, please arrange to schedule a meeting
+	 in order to discuss the report outcome <o:p></o:p></span></p><p class=Mso
+	Normal><span style='color:#1F497D'><o:p>&nbsp\;</o:p></span></p><div><p cl
+	ass=MsoNormal><span style='color:#1F497D'>Best Regards\, <o:p></o:p></span
+	></p></div><p class=MsoNormal><span style='color:#1F497D'><o:p>&nbsp\;</o:
+	p></span></p><table class=MsoNormalTable border=0 cellspacing=3 cellpaddin
+	g=0><tr><td style='padding:.75pt .75pt .75pt .75pt'><p><strong><span style
+	='font-family:"Calibri"\,sans-serif\;color:#1D49A7'>Mohamed Abdulla Jasim 
+	AlHosani</span></strong><span style='font-family:"Calibri"\,sans-serif'><b
+	r><span style='color:#363636'>Director\, Administration and Facilities<br>
+	Administration and Facilities</span></span><span style='font-size:10.0pt\;
+	font-family:"Arial"\,sans-serif'><o:p></o:p></span></p></td></tr><tr><td s
+	tyle='padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span style='fon
+	t-size:12.0pt\;font-family:"Times New Roman"\,serif'><img border=0 width=1
+	86 height=59 style='width:1.9375in\;height:.618in' id="Picture_x0020_1" sr
+	c="cid:image001.png@01D9A5B1.10C76E00" alt="cid:image001.png@01D9A5B1.10C7
+	6E00"></span><span style='font-size:12.0pt\;font-family:"Times New Roman"\
+	,serif'><o:p></o:p></span></p></td></tr><tr><td style='padding:.75pt .75pt
+	 .75pt .75pt'><p class=MsoNormal><span style='font-size:12.0pt\;color:#363
+	636'>P O Box 127788\, Abu Dhabi\,&nbsp\;UAE <br>Khalifa University of Scie
+	nce and Technology</span><span style='font-family:"Times New Roman"\,serif
+	\;color:#363636'><br></span><span style='font-size:12.0pt\;color:#363636'>
+	<br>T +971 2 312 3322</span><span style='font-size:12.0pt\;font-family:"Ti
+	mes New Roman"\,serif\;color:#363636'> </span><span style='font-family:"Ti
+	mes New Roman"\,serif\;color:#363636'><br></span><span style='font-size:12
+	.0pt\;color:#363636'><a href="mailto:mohamed.alhosani@ku.ac.ae">mohamed.al
+	hosani@ku.ac.ae</a></span><span style='font-size:12.0pt\;font-family:"Time
+	s New Roman"\,serif'><o:p></o:p></span></p></td></tr><tr><td style='paddin
+	g:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span style='font-size:12.0p
+	t'><a href="https://www.ku.ac.ae/">ku.ac.ae</a></span><span style='font-si
+	ze:12.0pt\;font-family:"Times New Roman"\,serif'><o:p></o:p></span></p></t
+	d></tr><tr><td style='padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal>
+	<a href="https://www.facebook.com/khalifauniversity/"><span style='font-si
+	ze:12.0pt\;font-family:"Times New Roman"\,serif\;text-decoration:none'><im
+	g border=0 width=23 height=23 style='width:.243in\;height:.243in' id="Pict
+	ure_x0020_2" src="cid:image002.png@01D9A5B1.10C76E00" alt="cid:image002.pn
+	g@01D9A5B1.10C76E00"></span></a><a href="https://twitter.com/KhalifaUni"><
+	span style='font-size:12.0pt\;font-family:"Times New Roman"\,serif\;text-d
+	ecoration:none'><img border=0 width=23 height=23 style='width:.243in\;heig
+	ht:.243in' id="Picture_x0020_3" src="cid:image003.png@01D9A5B1.10C76E00" a
+	lt="cid:image003.png@01D9A5B1.10C76E00"></span></a><a href="https://www.in
+	stagram.com/khalifauniversity"><span style='font-size:12.0pt\;font-family:
+	"Times New Roman"\,serif\;text-decoration:none'><img border=0 width=23 hei
+	ght=23 style='width:.243in\;height:.243in' id="Picture_x0020_4" src="cid:i
+	mage004.png@01D9A5B1.10C76E00" alt="cid:image004.png@01D9A5B1.10C76E00"></
+	span></a><a href="https://www.youtube.com/user/khalifauniversity"><span st
+	yle='font-size:12.0pt\;font-family:"Times New Roman"\,serif\;text-decorati
+	on:none'><img border=0 width=23 height=23 style='width:.243in\;height:.243
+	in' id="Picture_x0020_5" src="cid:image005.png@01D9A5B1.10C76E00" alt="cid
+	:image005.png@01D9A5B1.10C76E00"></span></a><a href="https://www.linkedin.
+	com/school/khalifauniversity/"><span style='font-size:12.0pt\;font-family:
+	"Times New Roman"\,serif\;text-decoration:none'><img border=0 width=23 hei
+	ght=23 style='width:.243in\;height:.243in' id="Picture_x0020_6" src="cid:i
+	mage006.png@01D9A5B1.10C76E00" alt="cid:image006.png@01D9A5B1.10C76E00"></
+	span></a><a href="https://www.tiktok.com/@khalifauniversity?_t=8Y048LBBqpV
+	&amp\;_r=1"><span style='font-size:12.0pt\;font-family:"Times New Roman"\,
+	serif\;text-decoration:none'><img border=0 width=23 height=23 style='width
+	:.243in\;height:.243in' id="Picture_x0020_7" src="cid:image007.png@01D9A5B
+	1.10C76E00" alt="cid:image007.png@01D9A5B1.10C76E00"></span></a><span styl
+	e='font-size:12.0pt\;font-family:"Times New Roman"\,serif'><o:p></o:p></sp
+	an></p></td></tr><tr style='height:18.75pt'><td valign=top style='padding:
+	.75pt .75pt .75pt .75pt\;height:18.75pt'><p class=MsoNormal><span style='f
+	ont-size:12.0pt\;font-family:"Times New Roman"\,serif'><img border=0 width
+	=300 height=70 style='width:3.125in\;height:.7291in' id="Picture_x0020_8" 
+	src="cid:image009.jpg@01D9A5B3.8325C580" alt="cid:image010.jpg@01D9A5B1.10
+	C76E00"></span><span style='font-size:12.0pt\;font-family:"Times New Roman
+	"\,serif'><o:p></o:p></span></p></td></tr></table><div><div style='border:
+	none\;border-top:solid #E1E1E1 1.0pt\;padding:3.0pt 0in 0in 0in'><p class=
+	MsoNormal><b>From:</b> Abdulaziz Alkhoori &lt\;<a href="mailto:abdulaziz.a
+	lkhoori@ku.ac.ae">abdulaziz.alkhoori@ku.ac.ae</a>&gt\; <br><b>Sent:</b> Th
+	ursday\, June 22\, 2023 1:12 PM<br><b>To:</b> Mohamed Abdulla Jasim AlHosa
+	ni &lt\;<a href="mailto:mohamed.alhosani@ku.ac.ae">mohamed.alhosani@ku.ac.
+	ae</a>&gt\;<br><b>Cc:</b> Anamika Menon &lt\;<a href="mailto:anamika.menon
+	@ku.ac.ae">anamika.menon@ku.ac.ae</a>&gt\;\; Waseem Alwahedy &lt\;<a href=
+	"mailto:waseem.alwahedy@ku.ac.ae">waseem.alwahedy@ku.ac.ae</a>&gt\;\; <a h
+	ref="mailto:aeldeeb@Kpmg.Com">aeldeeb@Kpmg.Com</a><br><b>Subject:</b> Revi
+	ew of EHS - Draft report &amp\; Closing meeting<o:p></o:p></p></div></div>
+	<p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Dear Mohamed\,
+	<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal
+	>Hope all is well with you.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;<
+	/o:p></p><p class=MsoNormal>I would like to thank you and your team for yo
+	ur assistance and cooperation with Internal Audit during our review of EHS
+	. Attached is the draft report for your thoughtful review\; and as per our
+	 standard audit protocol we would like to schedule a &#8220\;Closing Meeti
+	ng&#8221\; with you to discuss the report's content in more depth\, confir
+	m our findings\, receive any feedback you may have\, and discuss potential
+	 remedial actions or improvements.<o:p></o:p></p><p class=MsoNormal><o:p>&
+	nbsp\;</o:p></p><p class=MsoNormal>Given that next week is mostly Eid Holi
+	days\, let&#8217\;s aim to have the meeting on the week starting Monday\, 
+	July 10th. This timeframe will provide your team with ample time to review
+	 the draft report and prepare for the meeting. To coordinate the logistics
+	\, please feel free to reach out to Anamika from our team.<o:p></o:p></p><
+	p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Thanks again &a
+	mp\; Eid Mubarak\,<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p>
+	<table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0><tr><td s
+	tyle='padding:.75pt .75pt .75pt .75pt'><p><strong><span style='font-family
+	:"Calibri"\,sans-serif\;color:#1D49A7'>Abdulaziz Alkhoori</span></strong><
+	span style='font-family:"Calibri"\,sans-serif'><br><span style='color:#363
+	636'>Vice President\, Audit<br>Audit</span></span><span style='font-size:1
+	0.0pt\;font-family:"Arial"\,sans-serif'><o:p></o:p></span></p></td></tr><t
+	r><td style='padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span sty
+	le='font-size:12.0pt\;font-family:"Times New Roman"\,serif'><img border=0 
+	width=186 height=59 style='width:1.9375in\;height:.618in' id="Picture_x002
+	0_9" src="cid:image001.png@01D9A5B1.10C76E00" alt="cid:image001.png@01D9A5
+	B1.10C76E00"></span><span style='font-size:12.0pt\;font-family:"Times New 
+	Roman"\,serif'><o:p></o:p></span></p></td></tr><tr><td style='padding:.75p
+	t .75pt .75pt .75pt'><p class=MsoNormal><span style='font-size:12.0pt\;col
+	or:#363636'>P O Box 127788\, Abu Dhabi\,&nbsp\;UAE <br>Khalifa University 
+	of Science and Technology</span><span style='font-family:"Times New Roman"
+	\,serif\;color:#363636'><br></span><span style='font-size:12.0pt\;color:#3
+	63636'><br>T </span><span style='font-family:"Times New Roman"\,serif\;col
+	or:#363636'><br></span><span style='font-size:12.0pt\;color:#363636'><a hr
+	ef="mailto:abdulaziz.alkhoori@ku.ac.ae">abdulaziz.alkhoori@ku.ac.ae</a></s
+	pan><span style='font-size:12.0pt\;font-family:"Times New Roman"\,serif'><
+	o:p></o:p></span></p></td></tr><tr><td style='padding:.75pt .75pt .75pt .7
+	5pt'><p class=MsoNormal><span style='font-size:12.0pt'><a href="https://ww
+	w.ku.ac.ae/">ku.ac.ae</a></span><span style='font-size:12.0pt\;font-family
+	:"Times New Roman"\,serif'><o:p></o:p></span></p></td></tr><tr><td style='
+	padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><a href="https://www.f
+	acebook.com/khalifauniversity/"><span style='font-size:12.0pt\;font-family
+	:"Times New Roman"\,serif\;text-decoration:none'><img border=0 width=23 he
+	ight=23 style='width:.243in\;height:.243in' id="Picture_x0020_10" src="cid
+	:image002.png@01D9A5B1.10C76E00" alt="cid:image002.png@01D9A5B1.10C76E00">
+	</span></a><a href="https://twitter.com/KhalifaUni"><span style='font-size
+	:12.0pt\;font-family:"Times New Roman"\,serif\;text-decoration:none'><img 
+	border=0 width=23 height=23 style='width:.243in\;height:.243in' id="Pictur
+	e_x0020_11" src="cid:image003.png@01D9A5B1.10C76E00" alt="cid:image003.png
+	@01D9A5B1.10C76E00"></span></a><a href="https://www.instagram.com/khalifau
+	niversity"><span style='font-size:12.0pt\;font-family:"Times New Roman"\,s
+	erif\;text-decoration:none'><img border=0 width=23 height=23 style='width:
+	.243in\;height:.243in' id="Picture_x0020_12" src="cid:image004.png@01D9A5B
+	1.10C76E00" alt="cid:image004.png@01D9A5B1.10C76E00"></span></a><a href="h
+	ttps://www.youtube.com/user/khalifauniversity"><span style='font-size:12.0
+	pt\;font-family:"Times New Roman"\,serif\;text-decoration:none'><img borde
+	r=0 width=23 height=23 style='width:.243in\;height:.243in' id="Picture_x00
+	20_13" src="cid:image005.png@01D9A5B1.10C76E00" alt="cid:image005.png@01D9
+	A5B1.10C76E00"></span></a><a href="https://www.linkedin.com/school/khalifa
+	university/"><span style='font-size:12.0pt\;font-family:"Times New Roman"\
+	,serif\;text-decoration:none'><img border=0 width=23 height=23 style='widt
+	h:.243in\;height:.243in' id="Picture_x0020_14" src="cid:image006.png@01D9A
+	5B1.10C76E00" alt="cid:image006.png@01D9A5B1.10C76E00"></span></a><a href=
+	"https://www.tiktok.com/@khalifauniversity?_t=8Y048LBBqpV&amp\;_r=1"><span
+	 style='font-size:12.0pt\;font-family:"Times New Roman"\,serif\;text-decor
+	ation:none'><img border=0 width=23 height=23 style='width:.243in\;height:.
+	243in' id="Picture_x0020_15" src="cid:image007.png@01D9A5B1.10C76E00" alt=
+	"cid:image007.png@01D9A5B1.10C76E00"></span></a><span style='font-size:12.
+	0pt\;font-family:"Times New Roman"\,serif'><o:p></o:p></span></p></td></tr
+	><tr style='height:18.75pt'><td valign=top style='padding:.75pt .75pt .75p
+	t .75pt\;height:18.75pt'><p class=MsoNormal><span style='font-size:12.0pt\
+	;font-family:"Times New Roman"\,serif'><img border=0 width=300 height=70 s
+	tyle='width:3.125in\;height:.7291in' id="Picture_x0020_16" src="cid:image0
+	11.jpg@01D9A5B1.10C76E00" alt="cid:image011.jpg@01D9A5B1.10C76E00"></span>
+	<span style='font-size:12.0pt\;font-family:"Times New Roman"\,serif'><o:p>
+	</o:p></span></p></td></tr></table><p class=MsoNormal><span style='font-si
+	ze:12.0pt\;font-family:"Times New Roman"\,serif'><o:p>&nbsp\;</o:p></span>
+	</p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20230623T045949Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
